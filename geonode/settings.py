@@ -69,19 +69,20 @@ TIME_ZONE = 'America/Chicago'
 LANGUAGE_CODE = 'en'
 
 LANGUAGES = (
+    ('ro', 'Romana'),
     ('en', 'English'),
-    ('es', 'Español'),
-    ('it', 'Italiano'),
-    ('fr', 'Français'),
-    ('de', 'Deutsch'),
-    ('el', 'Ελληνικά'),
-    ('id', 'Bahasa Indonesia'),
-    ('zh-cn', '中文'),
-    ('ja', '日本人'),
-    ('fa', 'Persian'),
-    ('pt', 'Portuguese'),
-    ('ru', 'Russian'),
-    ('vi', 'Vietnamese'),
+    # ('es', 'Español'),
+    # ('it', 'Italiano'),
+    # ('fr', 'Français'),
+    # ('de', 'Deutsch'),
+    # ('el', 'Ελληνικά'),
+    # ('id', 'Bahasa Indonesia'),
+    # ('zh-cn', '中文'),
+    # ('ja', '日本人'),
+    # ('fa', 'Persian'),
+    # ('pt', 'Portuguese'),
+    # ('ru', 'Russian'),
+    # ('vi', 'Vietnamese'),
     #('fil', 'Filipino'),
     
 )

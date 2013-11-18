@@ -1,0 +1,3805 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: maisafie->geonode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-04 18:18-0700\n"
+"PO-Revision-Date: 2013-11-16 01:34+0200\n"
+"Last-Translator: maisafie <maisafie@gmail.com>\n"
+"Language-Team: maisafie <maisafie@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: ro\n"
+
+#: utils.py:319 security/enumerations.py:28
+msgid "Anonymous Users"
+msgstr "Utilizatori anonimi"
+
+#: utils.py:323 security/enumerations.py:29
+msgid "Registered Users"
+msgstr "Utilizatori inregistrati"
+
+#: utils.py:332
+msgid "User"
+msgstr "Utilizator"
+
+#: utils.py:664
+msgid "Permission Denied"
+msgstr "Acces interzis"
+
+#: views.py:105
+msgid "You are not permitted to modify this object"
+msgstr "Nu aveti dreptul de a modifica acest obiect"
+
+#: base/enumerations.py:26
+msgid "series"
+msgstr "serii"
+
+#: base/enumerations.py:27
+msgid "computer program or routine"
+msgstr "program sau rutina de calculator"
+
+#: base/enumerations.py:28
+msgid "feature type"
+msgstr "tipul elementului"
+
+#: base/enumerations.py:29
+msgid "copy or imitation of an existing or hypothetical object"
+msgstr "copie sau imitatie a unui obiect existent sau ipotetic"
+
+#: base/enumerations.py:30
+msgid "collection hardware"
+msgstr "colectie hardware"
+
+#: base/enumerations.py:31
+msgid "collection session"
+msgstr "sesiune de colectare"
+
+#: base/enumerations.py:32
+msgid "non-geographic data"
+msgstr "date non-geografice"
+
+#: base/enumerations.py:33
+msgid "property type"
+msgstr "tipul proprietatii"
+
+#: base/enumerations.py:34
+msgid "field session"
+msgstr ""
+
+#: base/enumerations.py:35
+msgid "dataset"
+msgstr "seturi de date"
+
+#: base/enumerations.py:36
+msgid "service interfaces"
+msgstr "interfete de serviciu"
+
+#: base/enumerations.py:37
+msgid "attribute class"
+msgstr "clasa atribut"
+
+#: base/enumerations.py:38
+msgid "characteristic of a feature"
+msgstr "caracteristica unui element"
+
+#: base/enumerations.py:39
+msgid "tile or spatial subset of geographic data"
+msgstr "subset de date geografice in fomat tile (placi) sau spatial"
+
+#: base/enumerations.py:40
+msgid "feature"
+msgstr "element"
+
+#: base/enumerations.py:41
+msgid "dimension group"
+msgstr "grup de dimensiuni"
+
+#: base/enumerations.py:45
+msgid "frequency of maintenance for the data is not known"
+msgstr "frecventa de actualizare pentru date nu este cunoscuta"
+
+#: base/enumerations.py:46
+msgid "data is repeatedly and frequently updated"
+msgstr "datele sunt actualizate repetat  in mod frecvent"
+
+#: base/enumerations.py:47
+msgid "there are no plans to update the data"
+msgstr "nu exista planuri pentru a actualiza datele"
+
+#: base/enumerations.py:48
+msgid "data is updated each day"
+msgstr "datele sunt actualizare in fiecare zi"
+
+#: base/enumerations.py:49
+msgid "data is updated every year"
+msgstr "datele sunt actualizate in fiecare an"
+
+#: base/enumerations.py:50
+msgid "data is updated as deemed necessary"
+msgstr "Datele sunt actualizate dupa cum se considera necesar"
+
+#: base/enumerations.py:51
+msgid "data is updated each month"
+msgstr "Datele sunt actualizate in fiecare luna"
+
+#: base/enumerations.py:52
+msgid "data is updated every two weeks"
+msgstr "Datele sunt actualizate la fiecare doua saptamani"
+
+#: base/enumerations.py:54
+msgid "data is updated in intervals that are uneven in duration"
+msgstr "Datele sunt actualizate la intervale neregulate"
+
+#: base/enumerations.py:55
+msgid "data is updated on a weekly basis"
+msgstr "Datele sunt actualizate o data pe saptamana"
+
+#: base/enumerations.py:56
+msgid "data is updated twice each year"
+msgstr "Datele sunt actualizate de doua ori pe an"
+
+#: base/enumerations.py:57
+msgid "data is updated every three months"
+msgstr "Datele sunt actualizate la fiecare trei luni"
+
+#: base/enumerations.py:76
+msgid "No information provided"
+msgstr "Nu sunt furnizate informatii"
+
+#: base/enumerations.py:80
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+#: base/enumerations.py:81
+msgid "Aland Islands"
+msgstr "Insulele Aland"
+
+#: base/enumerations.py:82
+msgid "Albania"
+msgstr "Albania"
+
+#: base/enumerations.py:83
+msgid "Algeria"
+msgstr "Algeria"
+
+#: base/enumerations.py:84
+msgid "American Samoa"
+msgstr "Samoa Americana"
+
+#: base/enumerations.py:85
+msgid "Andorra"
+msgstr "Andora"
+
+#: base/enumerations.py:86
+msgid "Angola"
+msgstr "Angola"
+
+#: base/enumerations.py:87
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: base/enumerations.py:88
+msgid "Antigua and Barbuda"
+msgstr "Antigua si Barbuda"
+
+#: base/enumerations.py:89
+msgid "Argentina"
+msgstr "Argentina"
+
+#: base/enumerations.py:90
+msgid "Armenia"
+msgstr "Armenia"
+
+#: base/enumerations.py:91
+msgid "Aruba"
+msgstr "Aruba"
+
+#: base/enumerations.py:92
+msgid "Australia"
+msgstr "Australia"
+
+#: base/enumerations.py:93
+msgid "Austria"
+msgstr "Austria"
+
+#: base/enumerations.py:94
+msgid "Azerbaijan"
+msgstr "Azerbaidjan"
+
+#: base/enumerations.py:95
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: base/enumerations.py:96
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: base/enumerations.py:97
+msgid "Bangladesh"
+msgstr "Banglades"
+
+#: base/enumerations.py:98
+msgid "Barbados"
+msgstr "Barbados"
+
+#: base/enumerations.py:99
+msgid "Belarus"
+msgstr "Belarus"
+
+#: base/enumerations.py:100
+msgid "Belgium"
+msgstr "Belgia"
+
+#: base/enumerations.py:101
+msgid "Belize"
+msgstr "Belize"
+
+#: base/enumerations.py:102
+msgid "Benin"
+msgstr "Benin"
+
+#: base/enumerations.py:103
+msgid "Bermuda"
+msgstr "Insulele Bermude"
+
+#: base/enumerations.py:104
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: base/enumerations.py:105
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: base/enumerations.py:106
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia și Herțegovina"
+
+#: base/enumerations.py:107
+msgid "Botswana"
+msgstr "Botswana"
+
+#: base/enumerations.py:108
+msgid "Brazil"
+msgstr "Brazilia"
+
+#: base/enumerations.py:109
+msgid "British Virgin Islands"
+msgstr "Insulele Virgine Britanice"
+
+#: base/enumerations.py:110
+msgid "Brunei Darussalam"
+msgstr "Brunei"
+
+#: base/enumerations.py:111
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: base/enumerations.py:112
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: base/enumerations.py:113
+msgid "Burundi"
+msgstr "Burundi"
+
+#: base/enumerations.py:114
+msgid "Cambodia"
+msgstr "Cambodgia"
+
+#: base/enumerations.py:115
+msgid "Cameroon"
+msgstr "Camerun"
+
+#: base/enumerations.py:116
+msgid "Canada"
+msgstr "Canada"
+
+#: base/enumerations.py:117
+msgid "Cape Verde"
+msgstr "Republica Capului Verde"
+
+#: base/enumerations.py:118
+msgid "Cayman Islands"
+msgstr "Insulele Cayman"
+
+#: base/enumerations.py:119
+msgid "Central African Republic"
+msgstr "Republica Centrafricană"
+
+#: base/enumerations.py:120
+msgid "Chad"
+msgstr "Ciad"
+
+#: base/enumerations.py:121
+msgid "Channel Islands"
+msgstr "Insulele Canalului"
+
+#: base/enumerations.py:122
+msgid "Chile"
+msgstr "Chile"
+
+#: base/enumerations.py:123
+msgid "China"
+msgstr "China"
+
+#: base/enumerations.py:124
+msgid "China - Hong Kong"
+msgstr "China - Hong Kong"
+
+#: base/enumerations.py:125
+msgid "China - Macao"
+msgstr "China - Macao"
+
+#: base/enumerations.py:126
+msgid "Colombia"
+msgstr "Columbia"
+
+#: base/enumerations.py:127
+msgid "Comoros"
+msgstr "Comore"
+
+#: base/enumerations.py:128
+msgid "Congo"
+msgstr "Congo"
+
+#: base/enumerations.py:129
+msgid "Cook Islands"
+msgstr "Insulele Cook"
+
+#: base/enumerations.py:130
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: base/enumerations.py:131
+msgid "Cote d'Ivoire"
+msgstr "Coasta de Fildes"
+
+#: base/enumerations.py:132
+msgid "Croatia"
+msgstr "Croatia"
+
+#: base/enumerations.py:133
+msgid "Cuba"
+msgstr "Cuba"
+
+#: base/enumerations.py:134
+msgid "Cyprus"
+msgstr "Cipru"
+
+#: base/enumerations.py:135
+msgid "Czech Republic"
+msgstr "Cehia"
+
+#: base/enumerations.py:136
+msgid "Democratic People's Republic of Korea"
+msgstr "Coreea de Nord"
+
+#: base/enumerations.py:137
+msgid "Democratic Republic of the Congo"
+msgstr "Congo"
+
+#: base/enumerations.py:138
+msgid "Denmark"
+msgstr "Danemarca"
+
+#: base/enumerations.py:139
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: base/enumerations.py:140
+msgid "Dominica"
+msgstr "Dominica"
+
+#: base/enumerations.py:141
+msgid "Dominican Republic"
+msgstr "Republica Dominicană"
+
+#: base/enumerations.py:142
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: base/enumerations.py:143
+msgid "Egypt"
+msgstr "Egipt"
+
+#: base/enumerations.py:144
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: base/enumerations.py:145
+msgid "Equatorial Guinea"
+msgstr "Guineea Ecuatoriala"
+
+#: base/enumerations.py:146
+msgid "Eritrea"
+msgstr "Eritreea"
+
+#: base/enumerations.py:147
+msgid "Estonia"
+msgstr "Estonia"
+
+#: base/enumerations.py:148
+msgid "Ethiopia"
+msgstr "Etiopia"
+
+#: base/enumerations.py:149
+msgid "Faeroe Islands"
+msgstr "Insulele Feroe"
+
+#: base/enumerations.py:150
+msgid "Falkland Islands (Malvinas)"
+msgstr "Insulele Falkland (Malvine)"
+
+#: base/enumerations.py:151
+msgid "Fiji"
+msgstr "Fiji"
+
+#: base/enumerations.py:152
+msgid "Finland"
+msgstr "Finlanda"
+
+#: base/enumerations.py:153
+msgid "France"
+msgstr "Franta"
+
+#: base/enumerations.py:154
+msgid "French Guiana"
+msgstr "Guyana Franceza"
+
+#: base/enumerations.py:155
+msgid "French Polynesia"
+msgstr "Polinezia Franceza"
+
+#: base/enumerations.py:156
+msgid "Gabon"
+msgstr "Gabon"
+
+#: base/enumerations.py:157
+msgid "Gambia"
+msgstr "Gambia"
+
+#: base/enumerations.py:158
+msgid "Georgia"
+msgstr "Georgia"
+
+#: base/enumerations.py:159
+msgid "Germany"
+msgstr "Germania"
+
+#: base/enumerations.py:160
+msgid "Ghana"
+msgstr "Ghana"
+
+#: base/enumerations.py:161
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: base/enumerations.py:162
+msgid "Greece"
+msgstr "Grecia"
+
+#: base/enumerations.py:163
+msgid "Greenland"
+msgstr "Groenlanda"
+
+#: base/enumerations.py:164
+msgid "Grenada"
+msgstr "Grenada"
+
+#: base/enumerations.py:165
+msgid "Guadeloupe"
+msgstr "Guadelupa"
+
+#: base/enumerations.py:166
+msgid "Guam"
+msgstr "Guam"
+
+#: base/enumerations.py:167
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: base/enumerations.py:168
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: base/enumerations.py:169
+msgid "Guinea"
+msgstr "Guineea"
+
+#: base/enumerations.py:170
+msgid "Guinea-Bissau"
+msgstr "Guineea-Bissau"
+
+#: base/enumerations.py:171
+msgid "Guyana"
+msgstr "Guyana"
+
+#: base/enumerations.py:172
+msgid "Haiti"
+msgstr "Haiti"
+
+#: base/enumerations.py:173
+msgid "Holy See (Vatican City)"
+msgstr "Vatican"
+
+#: base/enumerations.py:174
+msgid "Honduras"
+msgstr "Vatican"
+
+#: base/enumerations.py:175
+msgid "Hungary"
+msgstr "Ungaria"
+
+#: base/enumerations.py:176
+msgid "Iceland"
+msgstr "Islanda"
+
+#: base/enumerations.py:177
+msgid "India"
+msgstr "India"
+
+#: base/enumerations.py:178
+msgid "Indonesia"
+msgstr "Indonezia"
+
+#: base/enumerations.py:179
+msgid "Iran"
+msgstr "Iran"
+
+#: base/enumerations.py:180
+msgid "Iraq"
+msgstr "Irak"
+
+#: base/enumerations.py:181
+msgid "Ireland"
+msgstr "Irlanda"
+
+#: base/enumerations.py:182
+msgid "Isle of Man"
+msgstr "Insula Man"
+
+#: base/enumerations.py:183
+msgid "Israel"
+msgstr "Israel"
+
+#: base/enumerations.py:184
+msgid "Italy"
+msgstr "Italia"
+
+#: base/enumerations.py:185
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: base/enumerations.py:186
+msgid "Japan"
+msgstr "Japonia"
+
+#: base/enumerations.py:187
+msgid "Jersey"
+msgstr "Jersey"
+
+#: base/enumerations.py:188
+msgid "Jordan"
+msgstr "Iordania"
+
+#: base/enumerations.py:189
+msgid "Kazakhstan"
+msgstr "Kazahstan"
+
+#: base/enumerations.py:190
+msgid "Kenya"
+msgstr "Kenya"
+
+#: base/enumerations.py:191
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: base/enumerations.py:192
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: base/enumerations.py:193
+msgid "Kyrgyzstan"
+msgstr "Kirgizstan"
+
+#: base/enumerations.py:194
+msgid "Lao People's Democratic Republic"
+msgstr "Laos"
+
+#: base/enumerations.py:195
+msgid "Latvia"
+msgstr "Letonia"
+
+#: base/enumerations.py:196
+msgid "Lebanon"
+msgstr "Liban"
+
+#: base/enumerations.py:197
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: base/enumerations.py:198
+msgid "Liberia"
+msgstr "Liberia"
+
+#: base/enumerations.py:199
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libia"
+
+#: base/enumerations.py:200
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: base/enumerations.py:201
+msgid "Lithuania"
+msgstr "Lituania"
+
+#: base/enumerations.py:202
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: base/enumerations.py:203
+msgid "Macedonia"
+msgstr "Macedonia"
+
+#: base/enumerations.py:204
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: base/enumerations.py:205
+msgid "Malawi"
+msgstr "Malawi"
+
+#: base/enumerations.py:206
+msgid "Malaysia"
+msgstr "Malaezia"
+
+#: base/enumerations.py:207
+msgid "Maldives"
+msgstr "Insulele Maldive"
+
+#: base/enumerations.py:208
+msgid "Mali"
+msgstr "Mali"
+
+#: base/enumerations.py:209
+msgid "Malta"
+msgstr "Malta"
+
+#: base/enumerations.py:210
+msgid "Marshall Islands"
+msgstr "Insulele Marshall"
+
+#: base/enumerations.py:211
+msgid "Martinique"
+msgstr "Martinica"
+
+#: base/enumerations.py:212
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: base/enumerations.py:213
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: base/enumerations.py:214
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: base/enumerations.py:215
+msgid "Mexico"
+msgstr "Mexic"
+
+#: base/enumerations.py:216
+msgid "Micronesia, Federated States of"
+msgstr "Micronesia"
+
+#: base/enumerations.py:217
+msgid "Monaco"
+msgstr "Monaco"
+
+#: base/enumerations.py:218
+msgid "Mongolia"
+msgstr "Mongolia"
+
+#: base/enumerations.py:219
+msgid "Montenegro"
+msgstr "Muntenegru"
+
+#: base/enumerations.py:220
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: base/enumerations.py:221
+msgid "Morocco"
+msgstr "Maroc"
+
+#: base/enumerations.py:222
+msgid "Mozambique"
+msgstr "Mozambic"
+
+#: base/enumerations.py:223
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: base/enumerations.py:224
+msgid "Namibia"
+msgstr "Namibia"
+
+#: base/enumerations.py:225
+msgid "Nauru"
+msgstr "Nauru"
+
+#: base/enumerations.py:226
+msgid "Nepal"
+msgstr "Nepal"
+
+#: base/enumerations.py:227
+msgid "Netherlands"
+msgstr "Olanda"
+
+#: base/enumerations.py:228
+msgid "Netherlands Antilles"
+msgstr "Antilele Olandeze"
+
+#: base/enumerations.py:229
+msgid "New Caledonia"
+msgstr "Noua Caledonie"
+
+#: base/enumerations.py:230
+msgid "New Zealand"
+msgstr "Noua Zeelanda"
+
+#: base/enumerations.py:231
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: base/enumerations.py:232
+msgid "Niger"
+msgstr "Niger"
+
+#: base/enumerations.py:233
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: base/enumerations.py:234
+msgid "Niue"
+msgstr "Niue"
+
+#: base/enumerations.py:235
+msgid "Norfolk Island"
+msgstr "Insula Norfolk"
+
+#: base/enumerations.py:236
+msgid "Northern Mariana Islands"
+msgstr "Comunitatea Insulelor Mariane de Nord"
+
+#: base/enumerations.py:237
+msgid "Norway"
+msgstr "Norvegia"
+
+#: base/enumerations.py:238
+msgid "Occupied Palestinian Territory"
+msgstr "Palestina"
+
+#: base/enumerations.py:239
+msgid "Oman"
+msgstr "Oman"
+
+#: base/enumerations.py:240
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: base/enumerations.py:241
+msgid "Palau"
+msgstr "Palau"
+
+#: base/enumerations.py:242
+msgid "Panama"
+msgstr "Panama"
+
+#: base/enumerations.py:243
+msgid "Papua New Guinea"
+msgstr "Papua Noua Guinee"
+
+#: base/enumerations.py:244
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: base/enumerations.py:245
+msgid "Peru"
+msgstr "Peru"
+
+#: base/enumerations.py:246
+msgid "Philippines"
+msgstr "Filipine"
+
+#: base/enumerations.py:247
+msgid "Pitcairn"
+msgstr "Insulele Pitcairn"
+
+#: base/enumerations.py:248
+msgid "Poland"
+msgstr "Polonia"
+
+#: base/enumerations.py:249
+msgid "Portugal"
+msgstr "portugalia"
+
+#: base/enumerations.py:250
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: base/enumerations.py:251
+msgid "Qatar"
+msgstr "Qatar"
+
+#: base/enumerations.py:252
+msgid "Republic of Korea"
+msgstr "Coreea de Sud"
+
+#: base/enumerations.py:253
+msgid "Republic of Moldova"
+msgstr "Moldova"
+
+#: base/enumerations.py:254
+msgid "Reunion"
+msgstr "Reunion"
+
+#: base/enumerations.py:255
+msgid "Romania"
+msgstr "Romania"
+
+#: base/enumerations.py:256
+msgid "Russian Federation"
+msgstr "Rusia"
+
+#: base/enumerations.py:257
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: base/enumerations.py:258
+msgid "Saint-Barthelemy"
+msgstr "Saint Barthelemy"
+
+#: base/enumerations.py:259
+msgid "Saint Helena"
+msgstr "Insula Sfanta Elena"
+
+#: base/enumerations.py:260
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts şi Nevis"
+
+#: base/enumerations.py:261
+msgid "Saint Lucia"
+msgstr "Sfanta Lucia"
+
+#: base/enumerations.py:262
+msgid "Saint-Martin (French part)"
+msgstr "Saint Martin"
+
+#: base/enumerations.py:263
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre și Miquelon"
+
+#: base/enumerations.py:264
+msgid "Saint Vincent and the Grenadines"
+msgstr "Sfântul Vicențiu și Grenadine"
+
+#: base/enumerations.py:265
+msgid "Samoa"
+msgstr "Samoa"
+
+#: base/enumerations.py:266
+msgid "San Marino"
+msgstr "San Marino"
+
+#: base/enumerations.py:267
+msgid "Sao Tome and Principe"
+msgstr "Sao Tome si Principe"
+
+#: base/enumerations.py:268
+msgid "Saudi Arabia"
+msgstr "Arabia Saudita"
+
+#: base/enumerations.py:269
+msgid "Senegal"
+msgstr "Senegal"
+
+#: base/enumerations.py:270
+msgid "Serbia"
+msgstr "Serbia"
+
+#: base/enumerations.py:271
+msgid "Seychelles"
+msgstr "Insulele Seychelles"
+
+#: base/enumerations.py:272
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: base/enumerations.py:273
+msgid "Singapore"
+msgstr "Singapore"
+
+#: base/enumerations.py:274
+msgid "Slovakia"
+msgstr "Slovacia"
+
+#: base/enumerations.py:275
+msgid "Slovenia"
+msgstr "Slovenia"
+
+#: base/enumerations.py:276
+msgid "Solomon Islands"
+msgstr "Insulele Solomon"
+
+#: base/enumerations.py:277
+msgid "Somalia"
+msgstr "Somalia"
+
+#: base/enumerations.py:278
+msgid "South Africa"
+msgstr "Africa de Sud"
+
+#: base/enumerations.py:279
+msgid "Spain"
+msgstr "Spania"
+
+#: base/enumerations.py:280
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: base/enumerations.py:281
+msgid "Sudan"
+msgstr "Sudan"
+
+#: base/enumerations.py:282
+msgid "Suriname"
+msgstr "Surinam"
+
+#: base/enumerations.py:283
+msgid "Svalbard and Jan Mayen Islands"
+msgstr "Svalbarn si Insulele Jan Meynes"
+
+#: base/enumerations.py:284
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: base/enumerations.py:285
+msgid "Sweden"
+msgstr "Suedia"
+
+#: base/enumerations.py:286
+msgid "Switzerland"
+msgstr "Elvetia"
+
+#: base/enumerations.py:287
+msgid "Syrian Arab Republic"
+msgstr "Siria"
+
+#: base/enumerations.py:288
+msgid "Tajikistan"
+msgstr "Tadjikistan"
+
+#: base/enumerations.py:289
+msgid "Thailand"
+msgstr "Thailanda"
+
+#: base/enumerations.py:290
+msgid "Timor-Leste"
+msgstr "Timorul de Est"
+
+#: base/enumerations.py:291
+msgid "Togo"
+msgstr "Togo"
+
+#: base/enumerations.py:292
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: base/enumerations.py:293
+msgid "Tonga"
+msgstr "Tonga"
+
+#: base/enumerations.py:294
+msgid "Trinidad and Tobago"
+msgstr "Trinidad-Tobago"
+
+#: base/enumerations.py:295
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: base/enumerations.py:296
+msgid "Turkey"
+msgstr "Turcia"
+
+#: base/enumerations.py:297
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: base/enumerations.py:298
+msgid "Turks and Caicos Islands"
+msgstr "Insulele Turks și Caicos"
+
+#: base/enumerations.py:299
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: base/enumerations.py:300
+msgid "Uganda"
+msgstr "Uganda"
+
+#: base/enumerations.py:301
+msgid "Ukraine"
+msgstr "Ucraina"
+
+#: base/enumerations.py:302
+msgid "United Arab Emirates"
+msgstr "Emiratele Arabe Unite"
+
+#: base/enumerations.py:303
+msgid "United Kingdom"
+msgstr "Regatul Unit al Marii Britanii și al Irlandei de Nord"
+
+#: base/enumerations.py:304
+msgid "United Republic of Tanzania"
+msgstr "Tanzania"
+
+#: base/enumerations.py:305
+msgid "United States of America"
+msgstr "Statele Unite ale Americii"
+
+#: base/enumerations.py:306
+msgid "United States Virgin Islands"
+msgstr "Insulele Virgine Americane"
+
+#: base/enumerations.py:307
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: base/enumerations.py:308
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: base/enumerations.py:309
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: base/enumerations.py:310
+msgid "Venezuela (Bolivarian Republic of)"
+msgstr "Venezuela"
+
+#: base/enumerations.py:311
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+#: base/enumerations.py:312
+msgid "Wallis and Futuna Islands"
+msgstr "Insulele Wallis si Futuna"
+
+#: base/enumerations.py:313
+msgid "Western Sahara"
+msgstr "Sahara Occidentala"
+
+#: base/enumerations.py:314
+msgid "Yemen"
+msgstr "Yemen"
+
+#: base/enumerations.py:315
+msgid "Zambia"
+msgstr "Zambia"
+
+#: base/enumerations.py:316
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: base/models.py:226 security/models.py:46
+msgid "title"
+msgstr "titlu"
+
+#: base/models.py:226
+msgid "name by which the cited resource is known"
+msgstr "numele dupa care resursa citata este cunoscuta"
+
+#: base/models.py:227
+msgid "date"
+msgstr "data"
+
+#: base/models.py:227
+msgid "reference date for the cited resource"
+msgstr "data de referință pentru resursa citata"
+
+#: base/models.py:229
+msgid "date type"
+msgstr "tipul de date"
+
+#: base/models.py:229
+msgid "identification of when a given event occurred"
+msgstr "identificarea momentului când a avut loc un anumit eveniment"
+
+#: base/models.py:231
+msgid "edition"
+msgstr "editia"
+
+#: base/models.py:231
+msgid "version of the cited resource"
+msgstr "versiunea resursei citate"
+
+#: base/models.py:232
+msgid "abstract"
+msgstr "rezumat"
+
+#: base/models.py:232
+msgid "brief narrative summary of the content of the resource(s)"
+msgstr "scurt rezumat narativ al conținutului resursei(resurselor)"
+
+#: base/models.py:233
+msgid "purpose"
+msgstr "scopul"
+
+#: base/models.py:233
+msgid "summary of the intentions with which the resource(s) was developed"
+msgstr "rezumat al intențiilor cu care a fost dezvoltata(e) resursa(ele)"
+
+#: base/models.py:235
+msgid "maintenance frequency"
+msgstr "frecventa intretinerii"
+
+#: base/models.py:235
+msgid ""
+"frequency with which modifications and deletions are made to the data after "
+"it is first produced"
+msgstr ""
+"frecvența cu care modificările și ștergerile sunt făcute de la data cand a "
+"fost  creata"
+
+#: base/models.py:241 people/models.py:59
+msgid "keywords"
+msgstr "cuvinte cheie"
+
+#: base/models.py:241 people/models.py:59
+msgid ""
+"commonly used word(s) or formalised word(s) or phrase(s) used to describe "
+"the subject (space or comma-separated"
+msgstr ""
+"cuvan(inte) folosite uzual sau formal sau expresie(ii) utlizate pentru a "
+"descrie subiectul (separate prin spatiu sau virgula)"
+
+#: base/models.py:242
+msgid "keywords region"
+msgstr "regiunea cuvinte cheie"
+
+#: base/models.py:242
+msgid "keyword identifies a location"
+msgstr "cuvinte cheie ce identifica o locatie"
+
+#: base/models.py:243
+msgid "restrictions"
+msgstr "restrictii"
+
+#: base/models.py:243
+msgid "limitation(s) placed upon the access or use of the data."
+msgstr "limitare(i) pusa(e) pe accesarea sau folosirea datelor"
+
+#: base/models.py:244
+msgid "restrictions other"
+msgstr "alte restrictii"
+
+#: base/models.py:244
+msgid ""
+"other restrictions and legal prerequisites for accessing and using the "
+"resource or metadata"
+msgstr ""
+"alte restrictii si conditii legale pentru accesarea si utilizarea resurselor "
+"sau metadatelor"
+
+#: base/models.py:247
+msgid "language"
+msgstr "limba"
+
+#: base/models.py:247
+msgid "language used within the dataset"
+msgstr "limba folosita in setul de date"
+
+#: base/models.py:248
+msgid ""
+"high-level geographic data thematic classification to assist in the grouping "
+"and search of available geographic data sets."
+msgstr ""
+"nivel inalt de clasificare tematica a datelor geografice ce serveste la "
+"gruparea si cautarea in seturile de date geografice disponibile."
+
+#: base/models.py:250
+msgid "method used to represent geographic information in the dataset."
+msgstr ""
+"metoda(ele) folosite pentru a reprezenta informatiile geografice in setul de "
+"date."
+
+#: base/models.py:253
+msgid "temporal extent start"
+msgstr "momentul de inceput al perioadei"
+
+#: base/models.py:253
+msgid "time period covered by the content of the dataset (start)"
+msgstr "perioada acoperita de continutul setului de date (inceput)"
+
+#: base/models.py:254
+msgid "temporal extent end"
+msgstr "momentul final al perioadei"
+
+#: base/models.py:254
+msgid "time period covered by the content of the dataset (end)"
+msgstr "perioada acoperita de continutul setului de date (final)"
+
+#: base/models.py:256
+msgid "supplemental information"
+msgstr "informatii suplimentare"
+
+#: base/models.py:256
+msgid "any other descriptive information about the dataset"
+msgstr "orice alte informatii descriptive despre setul de date."
+
+#: base/models.py:259
+msgid "distribution URL"
+msgstr "adresa URL de distributie"
+
+#: base/models.py:259
+msgid ""
+"information about on-line sources from which the dataset, specification, or "
+"community profile name and extended metadata elements can be obtained"
+msgstr ""
+"informații cu privire la sursele on-line de la care pot fi obținute setul de "
+"date, specificatii, sau numele profilului comunității și elemente extinse "
+"ale metadatelor"
+
+#: base/models.py:260
+msgid "distribution description"
+msgstr "descrierea distributiei"
+
+#: base/models.py:260
+msgid "detailed text description of what the online resource is/does"
+msgstr "descriere detaliata asupra ceea ce este/face resursa online"
+
+#: base/models.py:263
+msgid "data quality statement"
+msgstr "declaratia de calitate a datelor"
+
+#: base/models.py:263
+msgid ""
+"general explanation of the data producer's knowledge about the lineage of a "
+"dataset"
+msgstr ""
+"explicatie generala asupra cunostintelor producatorului despre provenienta "
+"unui set de date"
+
+#: base/models.py:277
+msgid "CSW typename"
+msgstr ""
+
+#: base/models.py:278
+msgid "CSW schema"
+msgstr ""
+
+#: base/models.py:279
+msgid "CSW source"
+msgstr ""
+
+#: base/models.py:280
+msgid "CSW insert date"
+msgstr ""
+
+#: base/models.py:281
+msgid "CSW type"
+msgstr ""
+
+#: base/models.py:282
+msgid "CSW anytext"
+msgstr ""
+
+#: base/models.py:283
+#: base/migrations/0003_change_default_for_csw_wkt_geometry.py:11
+#: base/migrations/0003_change_default_for_csw_wkt_geometry.py:15
+msgid "CSW WKT geometry"
+msgstr ""
+
+#: base/models.py:423
+msgid "For example \"kml\""
+msgstr "De exemplu \"kml\""
+
+#: base/models.py:425
+msgid "For example \"View in Google Earth\""
+msgstr "De exemplu \"Vezi in Google Earth\""
+
+#: base/models.py:426
+msgid "For example \"text/xml\""
+msgstr "De exemplu \"text/xml\""
+
+#: base/templates/base/resourcebase_info_panel.html:7
+msgid "Title"
+msgstr "Titlu"
+
+#: base/templates/base/resourcebase_info_panel.html:14
+msgid "Abstract"
+msgstr "rezumat"
+
+#: base/templates/base/resourcebase_info_panel.html:21
+#: search/templates/search/_general_filters.html:25
+msgid "Date"
+msgstr "Data"
+
+#: base/templates/base/resourcebase_info_panel.html:28
+#: search/templates/search/_type_filters.html:3
+msgid "Type"
+msgstr "Tipul"
+
+#: base/templates/base/resourcebase_info_panel.html:35
+#: search/templates/search/_general_filters.html:36
+msgid "Keywords"
+msgstr "Cuvinte cheie"
+
+#: base/templates/base/resourcebase_info_panel.html:44
+msgid "Category"
+msgstr "Categoria"
+
+#: base/templates/base/resourcebase_info_panel.html:51
+msgid "Regions"
+msgstr "Regiuni"
+
+#: base/templates/base/resourcebase_info_panel.html:60
+msgid "Owner"
+msgstr "Proprietar"
+
+#: base/templates/base/resourcebase_info_panel.html:67
+#: documents/templates/documents/document_detail.html:144
+#: documents/templates/documents/document_metadata.html:26
+#: layers/templates/layers/layer_detail.html:223
+#: layers/templates/layers/layer_metadata.html:57
+msgid "Point of Contact"
+msgstr "Punct de contact"
+
+#: base/templates/base/resourcebase_info_panel.html:79
+msgid "Maintenance Frequency"
+msgstr "Frecventa de intretinere"
+
+#: base/templates/base/resourcebase_info_panel.html:86
+msgid "Restrictions"
+msgstr "Restrictii"
+
+#: base/templates/base/resourcebase_info_panel.html:97
+msgid "Edition"
+msgstr "Editia"
+
+#: base/templates/base/resourcebase_info_panel.html:104
+msgid "Purpose"
+msgstr "Scop"
+
+#: base/templates/base/resourcebase_info_panel.html:111 templates/500.html:191
+#: templates/base.html:188
+msgid "Language"
+msgstr "Limba"
+
+#: base/templates/base/resourcebase_info_panel.html:118
+msgid "Temporal Extent"
+msgstr "Perioada"
+
+#: base/templates/base/resourcebase_info_panel.html:125
+msgid "Data Quality"
+msgstr "Calitatea datelor"
+
+#: base/templates/base/resourcebase_info_panel.html:132
+msgid "Supplemental Information"
+msgstr "Informatii suplimentare"
+
+#: base/templates/base/resourcebase_info_panel.html:139
+msgid "Spatial Representation Type"
+msgstr "Tipul de reprezentare spatiala"
+
+#: documents/forms.py:24 layers/forms.py:57 maps/forms.py:34
+#: people/forms.py:49
+msgid "A space or comma-separated list of keywords"
+msgstr "O lista de cuvinte cheie separate de spatiu sau virgula"
+
+#: documents/views.py:32 layers/views.py:73 maps/views.py:60
+msgid "No Permissions"
+msgstr "Fara perimisiuni"
+
+#: documents/views.py:33 layers/views.py:74 maps/views.py:61
+msgid "Read Only"
+msgstr "Doar citire"
+
+#: documents/views.py:34 layers/views.py:75 maps/views.py:62
+msgid "Read/Write"
+msgstr "Citire/Scriere"
+
+#: documents/views.py:35 layers/views.py:76 maps/views.py:63
+msgid "Administrative"
+msgstr "Administrativ"
+
+#: documents/views.py:38
+msgid "You are not permitted to delete this document"
+msgstr "Nu aveti dreptul sa stergeti acest document"
+
+#: documents/views.py:39
+msgid "You do not have permissions for this document."
+msgstr "Nu aveti drepturi pentru acest document"
+
+#: documents/views.py:40
+msgid "You are not permitted to modify this document"
+msgstr "Nu aveti dreptul sa modificati acest document"
+
+#: documents/views.py:41
+msgid "You are not permitted to modify this document's metadata"
+msgstr "Nu aveti dreptul sa modificati metadatele acestui document"
+
+#: documents/views.py:42
+msgid "You are not permitted to view this document"
+msgstr "Nu aveti dreptul sa vedeti acest document"
+
+#: documents/views.py:78 documents/views.py:99
+msgid "You are not allowed to view this document."
+msgstr "Nu va este permis sa vedeti acest document."
+
+#: documents/templates/documents/_document_filters.html:5
+#: layers/templates/layers/_layer_filters.html:5
+#: maps/templates/maps/_map_filters.html:5
+#: search/templates/search/_sort_filters.html:4
+msgid "Most recent"
+msgstr "Cele mai recente"
+
+#: documents/templates/documents/_document_filters.html:6
+#: layers/templates/layers/_layer_filters.html:6
+#: maps/templates/maps/_map_filters.html:6
+#: search/templates/search/_sort_filters.html:8
+msgid "Most popular"
+msgstr "Cele mai populare"
+
+#: documents/templates/documents/_document_filters.html:7
+#: layers/templates/layers/_layer_filters.html:7
+#: maps/templates/maps/_map_filters.html:7
+msgid "Most shared"
+msgstr "Cele mai distribuite"
+
+#: documents/templates/documents/_document_list_item.html:15
+#: layers/templates/layers/_layer_list_item.html:16
+#: maps/templates/maps/_map_list_item.html:13
+msgid "from"
+msgstr "de la"
+
+#: documents/templates/documents/_document_list_item.html:15
+#: layers/templates/layers/_layer_list_item.html:16
+#: maps/templates/maps/_map_list_item.html:13
+msgid "ago"
+msgstr "acum"
+
+#: documents/templates/documents/_document_list_item.html:18
+#: layers/templates/layers/_layer_list_item.html:19
+#: maps/templates/maps/_map_list_item.html:16
+msgid "view"
+msgstr "vezi"
+
+#: documents/templates/documents/_document_list_item.html:19
+#: layers/templates/layers/_layer_list_item.html:20
+#: maps/templates/maps/_map_list_item.html:17
+msgid "Average rating"
+msgstr "Evaluare medie"
+
+#: documents/templates/documents/_document_list_item.html:19
+#: layers/templates/layers/_layer_list_item.html:20
+#: maps/templates/maps/_map_list_item.html:17
+msgid "votes"
+msgstr "voturi"
+
+#: documents/templates/documents/_document_list_item.html:22
+#: layers/templates/layers/_layer_list_item.html:24
+#: maps/templates/maps/_map_list_item.html:21
+#: maps/templates/maps/map_download.html:6
+msgid "Download"
+msgstr "Descarcati"
+
+#: documents/templates/documents/document_base.html:12
+#: documents/templates/documents/document_list.html:7
+#: documents/templates/documents/document_list.html:13
+msgid "Explore Documents"
+msgstr "Explorati Documentele"
+
+#: documents/templates/documents/document_base.html:13
+#: documents/templates/documents/document_upload.html:17
+msgid "Upload Documents"
+msgstr "Incarcati Documente"
+
+#: documents/templates/documents/document_detail.html:33
+#: layers/templates/layers/layer_detail.html:42
+msgid "Download Metadata"
+msgstr "Descarcati metadate"
+
+#: documents/templates/documents/document_detail.html:46
+msgid "Edit Document"
+msgstr "Editati Documentul"
+
+#: documents/templates/documents/document_detail.html:50
+#: layers/templates/layers/layer_detail.html:61
+msgid "Edit Metadata"
+msgstr "Editati metadatele"
+
+#: documents/templates/documents/document_detail.html:51
+#: layers/templates/layers/layer_detail.html:63
+msgid "Edit Permissions"
+msgstr "Editati permisiunile"
+
+#: documents/templates/documents/document_detail.html:52
+msgid "Replace this Document"
+msgstr "Inlocuiti acest document"
+
+#: documents/templates/documents/document_detail.html:53
+msgid "Remove this Document"
+msgstr "Inlaturati acest document"
+
+#: documents/templates/documents/document_detail.html:70
+#: layers/templates/layers/_actions.html:3
+#: maps/templates/maps/map_detail.html:73 templates/_actions.html:3
+msgid "Info"
+msgstr "Informatii"
+
+#: documents/templates/documents/document_detail.html:71
+#: layers/templates/layers/_actions.html:8
+#: maps/templates/maps/map_detail.html:76 templates/_comments.html:11
+msgid "Comments"
+msgstr "Comentarii"
+
+#: documents/templates/documents/document_detail.html:72
+#: layers/templates/layers/_actions.html:7
+#: maps/templates/maps/map_detail.html:75
+msgid "Ratings"
+msgstr "Evaluare"
+
+#: documents/templates/documents/document_detail.html:73
+#: layers/templates/layers/_actions.html:5
+#: maps/templates/maps/map_detail.html:74 templates/_actions.html:5
+msgid "Share"
+msgstr "Distribuiti"
+
+#: documents/templates/documents/document_detail.html:74
+#: layers/templates/layers/_actions.html:6
+#: maps/templates/maps/map_detail.html:77
+#: maps/templates/maps/map_detail.html:112
+msgid "Flag"
+msgstr "Marcati"
+
+#: documents/templates/documents/document_detail.html:83
+msgid "Share This Document"
+msgstr "Distribuiti acest document"
+
+#: documents/templates/documents/document_detail.html:103
+msgid "Rate this document"
+msgstr "Evaluati acest document"
+
+#: documents/templates/documents/document_detail.html:107
+#: layers/templates/layers/layer_detail.html:147
+#: maps/templates/maps/map_detail.html:96
+msgid "Average Rating"
+msgstr "Evaluare medie"
+
+#: documents/templates/documents/document_detail.html:117
+msgid "Resource using this document"
+msgstr "Resurse ce folosesc acest document"
+
+#: documents/templates/documents/document_detail.html:119
+msgid "List of resources using this document:"
+msgstr "Lista resurselor ce folosesc acest document"
+
+#: documents/templates/documents/document_detail.html:123
+msgid "This document is related to a "
+msgstr "Acest documet se refera la un(o)"
+
+#: documents/templates/documents/document_detail.html:126
+msgid "This document is not related to any maps or layers"
+msgstr "Acest document nu are legatura cu nici o harta sau strat"
+
+#: documents/templates/documents/document_detail.html:133
+#: documents/templates/documents/document_upload.html:44
+#: layers/templates/layers/layer_detail.html:190
+#: layers/templates/layers/layer_replace.html:98
+#: maps/templates/maps/map_detail.html:146 templates/_permissions_form.html:7
+#: upload/templates/upload/layer_upload.html:116
+msgid "Permissions"
+msgstr "Permisiuni"
+
+#: documents/templates/documents/document_detail.html:134
+msgid "Click the button below to change the permissions of this document."
+msgstr ""
+"Apasati butonul de mai jos pentru a schimba permisiunile acestui document."
+
+#: documents/templates/documents/document_detail.html:135
+msgid "Change Document Permissions"
+msgstr "Schimbati permisiunile acestui document."
+
+#: documents/templates/documents/document_detail.html:139
+#: layers/templates/layers/layer_detail.html:218
+#: maps/templates/maps/map_detail.html:157 templates/500.html:184
+#: templates/base.html:181
+msgid "About"
+msgstr "Despre"
+
+#: documents/templates/documents/document_detail.html:140
+msgid "Document Owner"
+msgstr "Proprietarul documentului"
+
+#: documents/templates/documents/document_detail.html:148
+#: layers/templates/layers/layer_detail.html:227
+msgid "Metadata Author"
+msgstr "Autorul metadatelor"
+
+#: documents/templates/documents/document_list.html:28
+#: layers/templates/layers/layer_list.html:30
+#: maps/templates/maps/map_list.html:29 search/templates/search/search.html:27
+msgid "Your selections"
+msgstr "Selectiile dvs."
+
+#: documents/templates/documents/document_metadata.html:17
+#, python-format
+msgid ""
+"\n"
+"        Editing details for %(document_title)s\n"
+"      "
+msgstr ""
+"\n"
+"        Detalii editare pentru %(document_title)s\n"
+"      "
+
+#: documents/templates/documents/document_metadata.html:31
+#: layers/templates/layers/layer_metadata.html:62
+msgid "Metadata Provider"
+msgstr "Furnizorul de metadate"
+
+#: documents/templates/documents/document_metadata.html:36
+#: layers/templates/layers/layer_metadata.html:67
+msgid "Update"
+msgstr "Actualizare"
+
+#: documents/templates/documents/document_remove.html:11
+#, python-format
+msgid ""
+"\n"
+"          Are you sure you want to remove %(document_title)s?\n"
+"        "
+msgstr ""
+"\n"
+"          Sunteti sigur ca vreti sa stergeti %(document_title)s?\n"
+"        "
+
+#: documents/templates/documents/document_remove.html:18
+#: layers/templates/layers/layer_remove.html:18
+#: maps/templates/maps/map_remove.html:19
+msgid "Yes, I am sure"
+msgstr "Da, sunt sigur"
+
+#: documents/templates/documents/document_remove.html:19
+#: layers/templates/layers/layer_remove.html:19
+#: maps/templates/maps/map_remove.html:20
+msgid "No, don't remove it"
+msgstr "Nu, nu il sterge"
+
+#: documents/templates/documents/document_replace.html:4
+msgid "Replace Document"
+msgstr "Inlocuiti document"
+
+#: documents/templates/documents/document_replace.html:16
+msgid "Replace "
+msgstr "Inlocuiti"
+
+#: documents/templates/documents/document_upload.html:4
+msgid "Upload Document"
+msgstr "Încărcare document"
+
+#: layers/models.py:58
+msgid "style name"
+msgstr "nume stil"
+
+#: layers/models.py:60
+msgid "sld text"
+msgstr "text sld"
+
+#: layers/models.py:61
+msgid "sld version"
+msgstr "versiune sld"
+
+#: layers/models.py:62
+msgid "sld url"
+msgstr "url sld"
+
+#: layers/models.py:247
+msgid "attribute name"
+msgstr "nume atribut"
+
+#: layers/models.py:247
+msgid "name of attribute as stored in shapefile/spatial database"
+msgstr "numele atributului stocat in shapefile/baza de data spatiala"
+
+#: layers/models.py:248
+msgid "attribute description"
+msgstr "descriere atribut"
+
+#: layers/models.py:248
+msgid "description of attribute to be used in metadata"
+msgstr "descrierea atributului ce va fi folosit in metadate"
+
+#: layers/models.py:249
+msgid "attribute label"
+msgstr "etichet atribut"
+
+#: layers/models.py:249
+msgid "title of attribute as displayed in GeoNode"
+msgstr "titul atributului asa cum este el afisat in site"
+
+#: layers/models.py:250
+msgid "attribute type"
+msgstr "tipul atributului"
+
+#: layers/models.py:250
+msgid "the data type of the attribute (integer, string, geometry, etc)"
+msgstr "tipul de date al atributului (întreg, șir, geometrie, etc)"
+
+#: layers/models.py:251
+msgid "visible?"
+msgstr "vizibil?"
+
+#: layers/models.py:251
+msgid "specifies if the attribute should be displayed in identify results"
+msgstr ""
+"specifică dacă atributul trebuie să fie afișat în identificarea rezultatelor"
+
+#: layers/models.py:252
+msgid "display order"
+msgstr "ordinea afisajului"
+
+#: layers/models.py:252
+msgid ""
+"specifies the order in which attribute should be displayed in identify "
+"results"
+msgstr ""
+"specifică ordinea în care atributele ar trebui să fie afișate în "
+"identificarea rezultatelor"
+
+#: layers/models.py:255
+msgid "count"
+msgstr "numarul de valori"
+
+#: layers/models.py:255
+msgid "count value for this field"
+msgstr "numarul de valori pentru acest domeniu"
+
+#: layers/models.py:256
+msgid "min"
+msgstr "min"
+
+#: layers/models.py:256
+msgid "minimum value for this field"
+msgstr "valoarea minima pentru acest camp"
+
+#: layers/models.py:257
+msgid "max"
+msgstr "max"
+
+#: layers/models.py:257
+msgid "maximum value for this field"
+msgstr "valoarea maxima pentru acest camp"
+
+#: layers/models.py:258
+msgid "average"
+msgstr "mediu"
+
+#: layers/models.py:258
+msgid "average value for this field"
+msgstr "valoarea medie pentru acest camp"
+
+#: layers/models.py:259
+msgid "median"
+msgstr "median"
+
+#: layers/models.py:259
+msgid "median value for this field"
+msgstr "valoarea mediana pentru acest camp"
+
+#: layers/models.py:260
+msgid "standard deviation"
+msgstr "devierea standard"
+
+#: layers/models.py:260
+msgid "standard deviation for this field"
+msgstr "devierea standard pentru acest camp"
+
+#: layers/models.py:261
+msgid "sum"
+msgstr "suma"
+
+#: layers/models.py:261
+msgid "sum value for this field"
+msgstr "valoarea sumei pentru acest camp"
+
+#: layers/models.py:262
+msgid "unique values for this field"
+msgstr "valori unice pentru acest camp"
+
+#: layers/models.py:263
+msgid "last modified"
+msgstr "ultima modificare"
+
+#: layers/models.py:263
+msgid "date when attribute statistics were last updated"
+msgstr "data la care statisticile atributelor au fost ultima data actualizate"
+
+#: layers/models.py:507
+msgid "KML"
+msgstr "KML"
+
+#: layers/models.py:522
+msgid "View in Google Earth"
+msgstr "Vezi in Google Earth"
+
+#: layers/models.py:538
+msgid "Tiles"
+msgstr "Placi"
+
+#: layers/ows.py:91
+msgid "Zipped Shapefile"
+msgstr "Shapefile arhivat"
+
+#: layers/ows.py:92
+msgid "GML 2.0"
+msgstr "GML 2.0"
+
+#: layers/ows.py:93
+msgid "GML 3.1.1"
+msgstr "GML 3.1.1"
+
+#: layers/ows.py:94
+msgid "CSV"
+msgstr "CSV"
+
+#: layers/ows.py:95
+msgid "Excel"
+msgstr "Excel"
+
+#: layers/ows.py:96
+msgid "GeoJSON"
+msgstr "GeoJSON"
+
+#: layers/ows.py:119
+msgid "JPEG"
+msgstr "JPEG"
+
+#: layers/ows.py:120
+msgid "PDF"
+msgstr "PDF"
+
+#: layers/ows.py:121
+msgid "PNG"
+msgstr "PNG"
+
+#: layers/views.py:69
+msgid ""
+"There was an error while attempting to upload your data. Please try again, "
+"or contact and administrator if the problem continues."
+msgstr ""
+"A aparut o eroare in timp ce se incerca incarcarea datelor dvs. Va rugam sa "
+"mai incercati o data sau sa conctactati un administrator daca aceasta "
+"problema persista."
+
+#: layers/views.py:79
+msgid "You are not permitted to delete this layer"
+msgstr "Nu va este permis sa stergeti acest strat"
+
+#: layers/views.py:80
+msgid "You do not have permissions for this layer."
+msgstr "Nu aveti drepturi pentru acest strat."
+
+#: layers/views.py:81
+msgid "You are not permitted to modify this layer"
+msgstr "Nu aveti permisiuni pentru a modifica acest strat."
+
+#: layers/views.py:82
+msgid "You are not permitted to modify this layer's metadata"
+msgstr "Nu aveti permisiuni pentru a modifica metadatele acestui strat."
+
+#: layers/views.py:83
+msgid "You are not permitted to view this layer"
+msgstr "Nu aveti permisiuni pentru a vedea acest strat."
+
+#: layers/views.py:606 layers/views.py:656
+msgid "Bad HTTP Authorization Credentials."
+msgstr "Acreditari de autorizare HTTP eronate."
+
+#: layers/management/__init__.py:30
+msgid "Layer Uploaded"
+msgstr "Strat incarcat"
+
+#: layers/management/__init__.py:30
+msgid "A layer was uploaded"
+msgstr "Un strat a fost incarcat"
+
+#: layers/management/__init__.py:31
+msgid "Comment on Layer"
+msgstr "Comentarii asupra stratului"
+
+#: layers/management/__init__.py:31
+msgid "A layer was commented on"
+msgstr "Un strat are comentarii"
+
+#: layers/management/__init__.py:32
+msgid "Rating for Layer"
+msgstr "Evaluare pentru strat"
+
+#: layers/management/__init__.py:32
+msgid "A rating was given to a layer"
+msgstr "O evaluare a fost acordata unui strat"
+
+#: layers/templates/layers/_actions.html:4
+#: layers/templates/layers/layer_metadata.html:32
+#: layers/templates/layers/layer_metadata.html:47
+msgid "Attributes"
+msgstr "Atribute"
+
+#: layers/templates/layers/_layer_list_item.html:25
+msgid "Create a map"
+msgstr "Creeati o harta"
+
+#: layers/templates/layers/layer_base.html:13
+#: layers/templates/layers/layer_list.html:9
+#: layers/templates/layers/layer_list.html:15 templates/index.html:29
+#: upload/templates/upload/layer_upload_base.html:13
+msgid "Explore Layers"
+msgstr "Explorati Straturi"
+
+#: layers/templates/layers/layer_base.html:15 templates/index.html:57
+#: upload/templates/upload/layer_upload.html:42
+#: upload/templates/upload/layer_upload_base.html:15
+msgid "Upload Layers"
+msgstr "Incarcati Straturi"
+
+#: layers/templates/layers/layer_change_poc.html:5 templates/500.html:108
+#: templates/base.html:111
+msgid "Home"
+msgstr "Acasa"
+
+#: layers/templates/layers/layer_change_poc.html:5
+#: layers/templates/layers/layer_change_poc.html:7
+msgid "Change point of contact"
+msgstr "Schimba punct de contact"
+
+#: layers/templates/layers/layer_change_poc.html:10
+msgid "Assign a new point of contact to the layers below:"
+msgstr "Atribuiti un nou punct de contact pentru straturile urmatoare:"
+
+#: layers/templates/layers/layer_change_poc.html:17
+#: people/templates/people/forgot_username_form.html:17
+msgid "Submit"
+msgstr "Depuneti"
+
+#: layers/templates/layers/layer_detail.html:30
+msgid "Download Layer"
+msgstr "Descarcati stratul"
+
+#: layers/templates/layers/layer_detail.html:56
+msgid "Edit Layer"
+msgstr "Editati stratul"
+
+#: layers/templates/layers/layer_detail.html:65
+#: layers/templates/layers/layer_style_manage.html:14
+msgid "Manage Styles"
+msgstr "Administrati stilurile"
+
+#: layers/templates/layers/layer_detail.html:66
+msgid "Edit Styles"
+msgstr "Editati stilurile"
+
+#: layers/templates/layers/layer_detail.html:67
+msgid "Replace this Layer"
+msgstr "Inlocuiti acest Strat"
+
+#: layers/templates/layers/layer_detail.html:68
+msgid "Remove this Layer"
+msgstr "Stergeti acest Strat"
+
+#: layers/templates/layers/layer_detail.html:92
+msgid "Attribute Name"
+msgstr "Nume Atribut"
+
+#: layers/templates/layers/layer_detail.html:93
+msgid "Range"
+msgstr "Gama"
+
+#: layers/templates/layers/layer_detail.html:94
+msgid "Average"
+msgstr "Mediu"
+
+#: layers/templates/layers/layer_detail.html:95
+msgid "Median"
+msgstr "Median"
+
+#: layers/templates/layers/layer_detail.html:96
+msgid "Standard Deviation"
+msgstr "Deviatie Standard"
+
+#: layers/templates/layers/layer_detail.html:126
+msgid "Share This Layer"
+msgstr "Distribuiti acest Strat"
+
+#: layers/templates/layers/layer_detail.html:143
+msgid "Rate this layer"
+msgstr "Evaluati acest strat"
+
+#: layers/templates/layers/layer_detail.html:158
+msgid "Maps using this layer"
+msgstr "Harti ce folosesc acest strat"
+
+#: layers/templates/layers/layer_detail.html:160
+msgid "List of maps using this layer:"
+msgstr "Lista hartilor ce folosesc acest strat:"
+
+#: layers/templates/layers/layer_detail.html:166
+msgid "This layer is not currently used in any maps."
+msgstr "Acest strat nu este folosit in nici o harta."
+
+#: layers/templates/layers/layer_detail.html:172
+msgid "Documents related to this layer"
+msgstr "Documente legate de acest strat"
+
+#: layers/templates/layers/layer_detail.html:173
+msgid "List of documents related to this layer:"
+msgstr "Lista documentelor legate de acest strat:"
+
+#: layers/templates/layers/layer_detail.html:182
+msgid "Create a map using this layer"
+msgstr "Creati o harta folosind acest strat"
+
+#: layers/templates/layers/layer_detail.html:183
+msgid "Click the button below to generate a new map based on this layer."
+msgstr "Apasati butonul urmator pentru a genera o harta bazata pe acest strat."
+
+#: layers/templates/layers/layer_detail.html:184 templates/index.html:61
+msgid "Create a Map"
+msgstr "Creati o Harta"
+
+#: layers/templates/layers/layer_detail.html:191
+msgid "Click the button below to change the permissions of this layer."
+msgstr "Apasati butonul urmator pentru a schimba permisiunile acestui strat"
+
+#: layers/templates/layers/layer_detail.html:192
+msgid "Change Layer Permissions"
+msgstr "Schimbati permisiunile acestui strat"
+
+#: layers/templates/layers/layer_detail.html:198
+msgid "Styles"
+msgstr "Stiluri"
+
+#: layers/templates/layers/layer_detail.html:199
+msgid ""
+"The following styles are associated with this layer. Choose a style to view "
+"it in the preview map."
+msgstr ""
+"Următoarele modele sunt asociate cu acest strat. Alege un stil pentru a-l "
+"vizualiza în harta de previzualizare."
+
+#: layers/templates/layers/layer_detail.html:212
+msgid "No styles associated with this layer"
+msgstr "Nici un stil nu e asociat cu acest strat."
+
+#: layers/templates/layers/layer_detail.html:219
+msgid "Layer Owner"
+msgstr "Proprietarul Stratului"
+
+#: layers/templates/layers/layer_metadata.html:12
+#, python-format
+msgid ""
+"\n"
+"        Editing details for %(layer_title)s\n"
+"      "
+msgstr ""
+"\n"
+"        Se editeaza detaliile pentru %(layer_title)s\n"
+"      "
+
+#: layers/templates/layers/layer_metadata.html:17
+msgid ""
+"Note: this layer's orginal metadata was populated by importing a metadata "
+"XML file.\n"
+"        GeoNode's metadata import supports a subset of ISO, FGDC, and Dublin "
+"Core metadata elements.\n"
+"        Some of your original metadata may have been lost."
+msgstr ""
+"Nota: metadatele originale ale acestui strat au fost populate prin importul "
+"unui fisier XML cu metadate.\n"
+"        Importul de metadate al GeoNode suporta subseturi in format ISO, "
+"FGDC si Dublin Core.\n"
+"        Unele din metadatele originale ar putea sa fi fost pierdute."
+
+#: layers/templates/layers/layer_metadata.html:23
+msgid "Error updating metadata.  Please check the following fields: "
+msgstr ""
+"Eroare in timpul actualizarii metadatelor. Va rugam verificati urmatoarele "
+"campuri:"
+
+#: layers/templates/layers/layer_metadata.html:49
+msgid "Attribute"
+msgstr "Atribut"
+
+#: layers/templates/layers/layer_metadata.html:49
+msgid "Label"
+msgstr "Eticheta"
+
+#: layers/templates/layers/layer_metadata.html:49
+msgid "Description"
+msgstr "descriere"
+
+#: layers/templates/layers/layer_metadata.html:49
+msgid "Display Order"
+msgstr "Ordinea afisajului"
+
+#: layers/templates/layers/layer_remove.html:11
+#, python-format
+msgid ""
+"\n"
+"          Are you sure you want to remove %(layer_title)s?\n"
+"        "
+msgstr ""
+"\n"
+"          Sunteti sigur ca vreti sa stergeti %(layer_title)s?\n"
+"        "
+
+#: layers/templates/layers/layer_remove.html:25
+msgid "This action affects the following maps:"
+msgstr "Această acțiune afectează următoarele hărți:"
+
+#: layers/templates/layers/layer_remove.html:29
+msgid "No maps are using this layer"
+msgstr "Nici o harta nu foloseste acest strat"
+
+#: layers/templates/layers/layer_replace.html:5
+msgid "Replace Layer"
+msgstr "Inlocuiti stratul"
+
+#: layers/templates/layers/layer_replace.html:38
+msgid "Replace Layer: "
+msgstr "Inlocuiti stratul:"
+
+#: layers/templates/layers/layer_replace.html:82
+#: upload/templates/upload/layer_upload.html:88
+msgid "Files to be uploaded"
+msgstr "Fisiere ce urmeaza sa fie incarcate"
+
+#: layers/templates/layers/layer_style_manage.html:16
+#, python-format
+msgid ""
+"\n"
+"      Manage Available Styles for <a href=\"/layers/%(layer_title)s\">"
+"%(layer_title)s</a>\n"
+"    "
+msgstr ""
+"\n"
+"      Adminstrati stilurile disponibile pentru <a href=\"/layers/"
+"%(layer_title)s\">%(layer_title)s</a>\n"
+"    "
+
+#: layers/templates/layers/layer_style_manage.html:54
+msgid "Update Available Styles"
+msgstr "Actualizare stiluri disponibile"
+
+#: maps/models.py:65
+msgid "zoom"
+msgstr ""
+
+#: maps/models.py:69
+msgid "projection"
+msgstr "proiectia"
+
+#: maps/models.py:73
+msgid "center X"
+msgstr "centru X"
+
+#: maps/models.py:77
+msgid "center Y"
+msgstr "centru Y"
+
+#: maps/models.py:404
+msgid "stack order"
+msgstr ""
+
+#: maps/models.py:408
+msgid "format"
+msgstr ""
+
+#: maps/models.py:412
+msgid "name"
+msgstr "nume"
+
+#: maps/models.py:419
+msgid "opacity"
+msgstr "opacitate"
+
+#: maps/models.py:422
+msgid "styles"
+msgstr "stiluri"
+
+#: maps/models.py:425
+msgid "transparent"
+msgstr "transparent"
+
+#: maps/models.py:428
+msgid "fixed"
+msgstr "fix"
+
+#: maps/models.py:432
+msgid "group"
+msgstr "grup"
+
+#: maps/models.py:436
+msgid "visibility"
+msgstr "vizibilitate"
+
+#: maps/models.py:439
+msgid "ows URL"
+msgstr "URL ows"
+
+#: maps/models.py:442
+msgid "layer params"
+msgstr "parametri strat"
+
+#: maps/models.py:449
+msgid "source params"
+msgstr "parametri sursa"
+
+#: maps/views.py:66
+msgid "You are not permitted to delete this map."
+msgstr "Nu va este permis sa stergeti acest strat"
+
+#: maps/views.py:67
+msgid "You do not have permissions for this map."
+msgstr "Nu aveti permisiuni pentru aceasta harta"
+
+#: maps/views.py:68
+msgid "You must be logged in to save this map"
+msgstr "Trebuie sa fiti conectat pentru a salva aceasta harta"
+
+#: maps/views.py:69
+msgid "You are not allowed to modify this map's metadata."
+msgstr "Nu aveti dreptul de a modifica metadatele acesteri harti."
+
+#: maps/views.py:70
+msgid "You are not allowed to view this map."
+msgstr "Nu aveti dreptul sa vizualizati aceasta harta."
+
+#: maps/management/__init__.py:30
+msgid "Map Created"
+msgstr "Harta creata"
+
+#: maps/management/__init__.py:30
+msgid "A Map was created"
+msgstr "O harta a fost creata"
+
+#: maps/management/__init__.py:31
+msgid "Comment on Map"
+msgstr "Comentarii despre Harta"
+
+#: maps/management/__init__.py:31
+msgid "A map was commented on"
+msgstr "O harta a fost comentata"
+
+#: maps/management/__init__.py:32
+msgid "Rating for Map"
+msgstr "Evaluare pentru Harta"
+
+#: maps/management/__init__.py:32
+msgid "A rating was given to a map"
+msgstr "O evaluare a fost acordata pentru o harta"
+
+#: maps/templates/maps/_map_list_item.html:22
+msgid "View"
+msgstr "Vezi"
+
+#: maps/templates/maps/map_base.html:5 maps/templates/maps/map_base.html:12
+#: maps/templates/maps/map_list.html:14 templates/index.html:32
+msgid "Explore Maps"
+msgstr "Explorati harti"
+
+#: maps/templates/maps/map_detail.html:27
+msgid "Download Map"
+msgstr "Descarcati harta"
+
+#: maps/templates/maps/map_detail.html:31
+msgid "Download Data Layers"
+msgstr "Descarcati Straturile de Date"
+
+#: maps/templates/maps/map_detail.html:32
+msgid "Download Web Map Context"
+msgstr ""
+
+#: maps/templates/maps/map_detail.html:40
+msgid "Edit Map"
+msgstr "Editati Harta"
+
+#: maps/templates/maps/map_detail.html:44
+msgid "Edit Map Metadata"
+msgstr "Editati metadatele hartii"
+
+#: maps/templates/maps/map_detail.html:46
+msgid "Set Map Thumbnail"
+msgstr "Stabiliti Miniatura Hartii"
+
+#: maps/templates/maps/map_detail.html:48
+msgid "Edit Map Permissions"
+msgstr "Editati permisiunile hartii"
+
+#: maps/templates/maps/map_detail.html:49
+msgid "Remove this Map"
+msgstr "Inlaturati aceasta harta"
+
+#: maps/templates/maps/map_detail.html:54
+msgid "View Map"
+msgstr "Vedeti harta"
+
+#: maps/templates/maps/map_detail.html:92 templates/_actions.html:6
+msgid "Rate this Map"
+msgstr "Evaluati aceasta harta"
+
+#: maps/templates/maps/map_detail.html:105
+msgid "Share This Map"
+msgstr "Distribuiti aceasta harta"
+
+#: maps/templates/maps/map_detail.html:118
+msgid "Map Layers"
+msgstr "Straturile hartii"
+
+#: maps/templates/maps/map_detail.html:119
+msgid "This map uses the following layers:"
+msgstr "Aceasta harta foloseste urmatoarele straturi:"
+
+#: maps/templates/maps/map_detail.html:134
+msgid "Documents related to this map"
+msgstr "Documente legate de aceata harta"
+
+#: maps/templates/maps/map_detail.html:135
+msgid "List of documents related to this map:"
+msgstr "Lista documentelor legate de aceasta harta:"
+
+#: maps/templates/maps/map_detail.html:147
+msgid "Specify which users can view or modify this map"
+msgstr "Specificati ce utilizatori pot vedea sau modifica aceasta harta"
+
+#: maps/templates/maps/map_detail.html:148
+msgid "Change Permissions of this Map"
+msgstr "Schimbati permisiunile pentru aceasta harta"
+
+#: maps/templates/maps/map_detail.html:152
+msgid "Copy this map"
+msgstr "Copiati aceasta harta"
+
+#: maps/templates/maps/map_detail.html:153
+msgid "Duplicate this map and modify it for your own purposes"
+msgstr "Faceti o copie dupa aceasta harta pentru scopurile proprii"
+
+#: maps/templates/maps/map_detail.html:154
+#: maps/templates/maps/map_list.html:13
+msgid "Create a New Map"
+msgstr "Creati o harta noua"
+
+#: maps/templates/maps/map_detail.html:158
+msgid "Map Owner"
+msgstr "Proprietarul hartii"
+
+#: maps/templates/maps/map_download.html:8
+msgid ""
+"\n"
+"      Here you can download all the layers of this map that\n"
+"      are hosted on this GeoNode.  The following layers will\n"
+"      be downloaded:\n"
+"    "
+msgstr ""
+"\n"
+"      Aici puteti descarca toate straturile acestei hartii care\n"
+"      sunt gazduite pe acest server. Urmatoarele straturi vor\n"
+"      fi descarcate:\n"
+"    "
+
+#: maps/templates/maps/map_download.html:26
+msgid ""
+"\n"
+"        Additionally, the map contains these layers which will not be "
+"downloaded\n"
+"        due to security restrictions:\n"
+"      "
+msgstr ""
+"\n"
+"        In plus harta contine urmatoarele straturi care nu vor fi "
+"descarcate  din \n"
+"        motive de securitate:\n"
+"      "
+
+#: maps/templates/maps/map_download.html:38
+msgid ""
+"\n"
+"        Finally, the map contains these layers which will not be downloaded\n"
+"        because they are not available directly from this GeoNode:\n"
+"      "
+msgstr ""
+"\n"
+"        In cele din urma, harta contine urmatoarele straturi ce nu vor fi "
+"descarcate \n"
+"        deoarece ele nu sunt disponibile direct pe acest server:\n"
+"      "
+
+#: maps/templates/maps/map_download.html:60
+msgid "Start downloading this map"
+msgstr "Incepeti descarcarea acestei harti"
+
+#: maps/templates/maps/map_metadata.html:17
+#, python-format
+msgid ""
+"\n"
+"            Updating metadata of %(map_title)s\n"
+"        "
+msgstr ""
+"\n"
+"            Se actualizeaza metadatele la %(map_title)s\n"
+"        "
+
+#: maps/templates/maps/map_metadata.html:26
+msgid "Update metadata"
+msgstr "Actualizati metadatele"
+
+#: maps/templates/maps/map_remove.html:6
+msgid "Deleting"
+msgstr "Se sterge"
+
+#: maps/templates/maps/map_remove.html:13
+#, python-format
+msgid ""
+"\n"
+"        Are you sure you want to remove %(map_title)s?\n"
+"    "
+msgstr ""
+"\n"
+"        Sunteti sigur ca vreti sa stergeti harta %(map_title)s?\n"
+"    "
+
+#: maps/templates/maps/map_view.html:5
+msgid "GeoExplorer"
+msgstr "GeoExplorer"
+
+#: people/enumerations.py:39
+msgid "party who authored the resource"
+msgstr "partea care a autorizat resursa"
+
+#: people/enumerations.py:40
+msgid ""
+"party who has processed the data in a manner such that the resource has been "
+"modified"
+msgstr "partea care a prelucrat datele astfel încât a fost modificată resursa"
+
+#: people/enumerations.py:41
+msgid "party who published the resource"
+msgstr "partea care a publicat resursa"
+
+#: people/enumerations.py:42
+msgid ""
+"party that accepts accountability and responsability for the data and "
+"ensures appropriate care and maintenance of the resource"
+msgstr ""
+"partea care acceptă responsabilitatea și responsabilitatea pentru date și "
+"asigură îngrijire adecvată și întreținerea resursei"
+
+#: people/enumerations.py:43
+msgid ""
+"party who can be contacted for acquiring knowledge about or acquisition of "
+"the resource"
+msgstr ""
+"partea care poate fi contactata pentru obtinerea de cunostinte despre "
+"resurse sau pentru achzitionarea acestora"
+
+#: people/enumerations.py:44
+msgid "party who distributes the resource"
+msgstr "partea care distribuie resursele"
+
+#: people/enumerations.py:45
+msgid "party who uses the resource"
+msgstr "partea care foloseste resursele"
+
+#: people/enumerations.py:46
+msgid "party that supplies the resource"
+msgstr "partea care furnizeaza resursele"
+
+#: people/enumerations.py:47
+msgid "party who created the resource"
+msgstr "partea care a creat resursele"
+
+#: people/enumerations.py:48
+msgid "party that owns the resource"
+msgstr "partea care detine resursele"
+
+#: people/enumerations.py:49
+msgid "key party responsible for gathering information and conducting research"
+msgstr ""
+"partea cheie responsabila pentru obtinerea informatiilor si desfasurarea "
+"cercetarii"
+
+#: people/forms.py:33
+msgid "Email Address"
+msgstr "Adresa de email"
+
+#: people/management.py:30
+msgid "User following you"
+msgstr "Utilizatori ce va urmaresc"
+
+#: people/management.py:30
+msgid "another user has started following you"
+msgstr "un alt utilizator a inceput sa va urmareasca"
+
+#: people/models.py:39
+msgid "function performed by the responsible party"
+msgstr "functia indeplinita de partea responsabila"
+
+#: people/models.py:40 security/models.py:47
+msgid "permissions"
+msgstr "permisiuni"
+
+#: people/models.py:47
+msgid "Individual Name"
+msgstr "Nume Individual"
+
+#: people/models.py:47
+msgid ""
+"name of the responsible personsurname, given name, title separated by a "
+"delimiter"
+msgstr ""
+"numele persoanei responsabile nume, prenume, titlu separate de un delimitator"
+
+#: people/models.py:48
+msgid "Organization Name"
+msgstr "Numele Organizatiei"
+
+#: people/models.py:48
+msgid "name of the responsible organization"
+msgstr "numele organizatiei responsabile"
+
+#: people/models.py:49 templates/500.html:47 templates/base.html:50
+msgid "Profile"
+msgstr "Profil"
+
+#: people/models.py:50
+msgid "Position Name"
+msgstr "Nume Pozitie"
+
+#: people/models.py:50
+msgid "role or position of the responsible person"
+msgstr "rolul sau pozitia persoanei responsabile"
+
+#: people/models.py:51
+msgid "Voice"
+msgstr "Voce"
+
+#: people/models.py:51
+msgid ""
+"telephone number by which individuals can speak to the responsible "
+"organization or individual"
+msgstr ""
+"numărul de telefon prin care persoanele fizice pot contacta organizația sau "
+"persoana responsabila"
+
+#: people/models.py:52
+msgid "Facsimile"
+msgstr "Fax"
+
+#: people/models.py:52
+msgid ""
+"telephone number of a facsimile machine for the responsible organization or "
+"individual"
+msgstr "numarul de telefon sau fax al organizației sau persoanei responsabile"
+
+#: people/models.py:53
+msgid "Delivery Point"
+msgstr "Punctul de livrare"
+
+#: people/models.py:53
+msgid ""
+"physical and email address at which the organization or individual may be "
+"contacted"
+msgstr ""
+"adresa fizica si de e-mail la care organizația sau persoana poate fi "
+"contactata"
+
+#: people/models.py:54
+msgid "City"
+msgstr "Oras"
+
+#: people/models.py:54
+msgid "city of the location"
+msgstr "orasul locatiei"
+
+#: people/models.py:55
+msgid "Administrative Area"
+msgstr "Zona Administrativa"
+
+#: people/models.py:55
+msgid "state, province of the location"
+msgstr ""
+
+#: people/models.py:56
+msgid "Postal Code"
+msgstr "Codul Postal"
+
+#: people/models.py:56
+msgid "ZIP or other postal code"
+msgstr "Codul Postal"
+
+#: people/models.py:57
+msgid "country of the physical address"
+msgstr "Tara"
+
+#: people/models.py:58
+msgid ""
+"address of the electronic mailbox of the responsible organization or "
+"individual"
+msgstr "Adresa de email a organizației responsabile sau individuale"
+
+#: people/views.py:141
+msgid "Your username for "
+msgstr "Numele dvs. de utilizator pentru"
+
+#: people/views.py:156
+msgid "Your username has been emailed to you."
+msgstr "Numele dvs. de utilizator v-a fost trimis pe email."
+
+#: people/views.py:158
+msgid "No user could be found with that email address."
+msgstr "Nu a putut fi gasit nici un utilizator cu aceasta adresa de email."
+
+#: people/templates/people/_profile_filters.html:5
+msgid "All contents"
+msgstr "Tot continutul"
+
+#: people/templates/people/_profile_filters.html:6 templates/500.html:111
+#: templates/base.html:114
+msgid "Layers"
+msgstr "Straturi"
+
+#: people/templates/people/_profile_filters.html:7 templates/500.html:114
+#: templates/base.html:117
+msgid "Maps"
+msgstr "Harti"
+
+#: people/templates/people/_profile_filters.html:8 templates/500.html:119
+#: templates/base.html:122
+msgid "Documents"
+msgstr "Documente"
+
+#: people/templates/people/_profile_filters.html:9
+msgid "Sort by date"
+msgstr "Aranjeaza dupa data"
+
+#: people/templates/people/_profile_filters.html:10
+msgid "Sort by title"
+msgstr "Aranjeaza dupa titlu"
+
+#: people/templates/people/_profile_list_item.html:39
+#: people/templates/people/profile_detail.html:15
+msgid "My Activities"
+msgstr "Activitatile mele"
+
+#: people/templates/people/forgot_username_form.html:5
+msgid "Forgot Username"
+msgstr "Am uitat numele de utilizator"
+
+#: people/templates/people/forgot_username_form.html:9
+msgid ""
+"Enter your email address and click the submit button.  Your username will be "
+"sent to you."
+msgstr ""
+"Introduceți adresa dvs. de e-mail și faceți clic pe butonul submit. Numele "
+"de utilizator va va fi trimis pe aceasta adresa."
+
+#: people/templates/people/profile_base.html:12
+#: people/templates/people/profile_list.html:11
+msgid "Explore People"
+msgstr "Vedeti persoane"
+
+#: people/templates/people/profile_create.html:8
+#: people/templates/people/profile_create.html:14
+msgid "Create Profile"
+msgstr "Creati profil"
+
+#: people/templates/people/profile_detail.html:7
+msgid "Profile of "
+msgstr "Profilul lui"
+
+#: people/templates/people/profile_detail.html:51
+msgid "Edit profile information"
+msgstr "Editati informatii despre profil"
+
+#: people/templates/people/profile_detail.html:52
+msgid "Account Settings"
+msgstr "Setari cont"
+
+#: people/templates/people/profile_detail.html:53
+msgid "Change password"
+msgstr "Schimbati parola"
+
+#: people/templates/people/profile_detail.html:54
+msgid "Upload new layers"
+msgstr "Incarcati straturi noi"
+
+#: people/templates/people/profile_detail.html:55
+msgid "Create a new map"
+msgstr "Creati o harta noua"
+
+#: people/templates/people/profile_detail.html:103
+msgid "Shared on"
+msgstr "Distribuit la"
+
+#: people/templates/people/profile_detail.html:116
+msgid "No contents found."
+msgstr "Nu a fost gasit nici un continut."
+
+#: people/templates/people/profile_edit.html:10
+#: people/templates/people/profile_edit.html:18
+msgid "Edit Your Profile"
+msgstr "Editati profil dvs."
+
+#: people/templates/people/profile_edit.html:24
+msgid "Update profile"
+msgstr "Actualizae profil"
+
+#: search/templates/search/_general_filters.html:5
+msgid "Categories"
+msgstr "Categorii"
+
+#: search/templates/search/_general_filters.html:7
+msgid "All Categories"
+msgstr "Toate categoriile"
+
+#: search/templates/search/_sort_filters.html:5
+msgid "Less recent"
+msgstr "Mai putin recente"
+
+#: search/templates/search/_sort_filters.html:6
+msgid "A - Z"
+msgstr "A - Z"
+
+#: search/templates/search/_sort_filters.html:7
+msgid "Z - A"
+msgstr "Z - A"
+
+#: search/templates/search/_sort_filters.html:9
+msgid "Relevance"
+msgstr "Relevanta"
+
+#: search/templates/search/advanced_search.html:4
+#: search/templates/search/advanced_search.html:10
+#: search/templates/search/search.html:6
+#: search/templates/search/search.html:12 templates/500.html:126
+#: templates/base.html:129
+msgid "Search"
+msgstr "Cautati"
+
+#: search/templates/search/advanced_search.html:14
+msgid "Search for: "
+msgstr "Cautati dupa:"
+
+#: search/templates/search/advanced_search.html:20
+msgid "All of the words"
+msgstr "Toate cuvintele"
+
+#: search/templates/search/advanced_search.html:26
+#: search/templates/search/advanced_search.html:112
+msgid "Search "
+msgstr "Cautati"
+
+#: search/templates/search/advanced_search.html:29
+msgid "Exclude words from your search"
+msgstr "Excludeti cuvinte din cautare"
+
+#: search/templates/search/advanced_search.html:35
+msgid "All categories"
+msgstr "Toate categoriile"
+
+#: search/templates/search/advanced_search.html:38
+msgid "Maps only"
+msgstr "Doar harti"
+
+#: search/templates/search/advanced_search.html:41
+msgid "Layers only"
+msgstr "Doar straturi"
+
+#: search/templates/search/advanced_search.html:44
+msgid "Users only"
+msgstr "Doar utilizatori"
+
+#: search/templates/search/advanced_search.html:52
+msgid "Type: "
+msgstr "Tip:"
+
+#: search/templates/search/advanced_search.html:57
+msgid "From this site/portal"
+msgstr "De pe acest site/portal"
+
+#: search/templates/search/advanced_search.html:63
+msgid "From this group"
+msgstr "Din acest grup"
+
+#: search/templates/search/advanced_search.html:69
+msgid "From this organization"
+msgstr "Din aceasta organizatie"
+
+#: search/templates/search/advanced_search.html:75
+msgid "From this geographic region"
+msgstr "Din aceasta regiune geografica"
+
+#: search/templates/search/advanced_search.html:85
+msgid "Metadata: "
+msgstr "Metadate:"
+
+#: search/templates/search/advanced_search.html:90
+msgid "Since this date"
+msgstr "Incepand cu aceasta data"
+
+#: search/templates/search/advanced_search.html:99
+msgid "Until this date"
+msgstr "Pana la aceasta data"
+
+#: search/templates/search/advanced_search.html:113
+msgid "Clear Options "
+msgstr "Curatati optiunile"
+
+#: search/templates/search/search_content.html:27
+msgid "No data found"
+msgstr "Nu au fost gasite date"
+
+#: security/enumerations.py:31
+msgid "Invalid permission level."
+msgstr "Nivel de permisiune invalid."
+
+#: security/models.py:48
+msgid "codename"
+msgstr "nume de cod"
+
+#: security/models.py:50
+msgid "Determines the order that roles are presented in the user interface."
+msgstr "Determines the order that roles are presented in the user interface."
+
+#: security/views.py:31
+msgid "???"
+msgstr "???"
+
+#: templates/401.html:10
+msgid "Not Permitted"
+msgstr "Nu este permis"
+
+#: templates/401.html:18
+msgid ""
+"\n"
+"          You are not allowed to perform this operation.  \n"
+"      "
+msgstr ""
+"\n"
+"          Nu aveti dreptul sa efectuati aceasta operatie  \n"
+"      "
+
+#: templates/401.html:25
+msgid "Please verify that you are logged in as the correct user."
+msgstr "Vă rugăm să verificați că sunteți conectat ca utilizatorul corect."
+
+#: templates/401.html:27
+msgid "Please login or register and retry."
+msgstr "Va rugam sa va conectati sau sa va inregistrati si sa reincercati."
+
+#: templates/404.html:5
+msgid "Page Not Found"
+msgstr "Pagina nu este gasita"
+
+#: templates/404.html:6
+msgid ""
+"\n"
+"      The page you requested does not exist.  Perhaps you are using an "
+"outdated bookmark?\n"
+"  "
+msgstr ""
+"\n"
+"      Pagina solicitată nu există. Poate că utilizați un marcaj (bookmark) "
+"învechit?\n"
+"  "
+
+#: templates/500.html:49 templates/base.html:52
+msgid "Admin"
+msgstr "Administrator"
+
+#: templates/500.html:52 templates/base.html:55
+msgid "GeoServer"
+msgstr "GeoServer"
+
+#: templates/500.html:55 templates/base.html:58
+#: templates/account/logout.html:6 templates/account/logout.html.py:12
+#: templates/account/logout.html:17
+msgid "Log out"
+msgstr "Deconectati-va"
+
+#: templates/500.html:60 templates/base.html:63
+msgid "Notifications"
+msgstr "Notificari"
+
+#: templates/500.html:61 templates/base.html:64
+msgid "Messages"
+msgstr "Mesaje"
+
+#: templates/500.html:62 templates/base.html:65
+msgid "Upload"
+msgstr "Incarcati"
+
+#: templates/500.html:63 templates/base.html:66
+msgid "Help"
+msgstr "Ajutor"
+
+#: templates/500.html:67 templates/500.html.py:80 templates/base.html:70
+#: templates/base.html.py:83
+msgid "Sign in"
+msgstr "Conectați-vă"
+
+#: templates/500.html:72 templates/base.html:75
+msgid "Username"
+msgstr "Nume utilizator"
+
+#: templates/500.html:74 templates/base.html:77
+msgid "Password"
+msgstr "Parola"
+
+#: templates/500.html:78 templates/base.html:81
+msgid "Remember Me"
+msgstr "Țineti-mă minte"
+
+#: templates/500.html:86 templates/base.html:89
+msgid "or"
+msgstr "sau"
+
+#: templates/500.html:87 templates/base.html:90
+msgid "Register"
+msgstr "Inregistrati-va"
+
+# sau oameni ... vad eu cum sa il traduc
+#: templates/500.html:123 templates/base.html:126
+msgid "People"
+msgstr "Utilizatori"
+
+#: templates/500.html:163
+msgid "There was a problem loading this page"
+msgstr "A aparut o problema in timp ce se incarca aceasta pagina"
+
+#: templates/500.html:164
+msgid ""
+"\n"
+"      Please contact your GeoNode administrator (he may have received an "
+"email automatically if he configured it properly).\n"
+"      If you are the site administrator, enable debug mode to see the actual "
+"error and fix it or file an issue in <a href=\"http://github.com/GeoNode/"
+"geonode/issues\">GeoNode's issue tracker</a>\n"
+"  "
+msgstr ""
+"\n"
+"      Vă rugăm să contactați administratorul GeoNode (acesta ar putea sa fi "
+"primit  un e-mail automat).\n"
+"      Dacă sunteți administratorul site-ului, activati site-ul in modul de "
+"depanare pentru a vedea eroarea reala și fixați-o sau depuneti-o <a href="
+"\"http://github.com/GeoNode/geonode/issues\">Aici</a>\n"
+"  "
+
+#: templates/500.html:182 templates/base.html:179
+msgid "Powered by"
+msgstr "Alimentat de"
+
+#: templates/500.html:182 templates/base.html:179
+msgid "GeoNode"
+msgstr "GeoNode"
+
+#: templates/500.html:182 templates/base.html:179
+msgid "version"
+msgstr "versiunea"
+
+#: templates/500.html:183 templates/base.html:180
+msgid "Developers"
+msgstr "Dezvoltatori"
+
+#: templates/_actions.html:4
+msgid "Add to Favorites"
+msgstr "Adauga la favorite"
+
+#: templates/_comments.html:16
+msgid "Add Comment"
+msgstr "Adauga comentariu"
+
+#: templates/_comments.html:20
+msgid "Log in to add a comment"
+msgstr "Conectați-vă pentru a adăuga un comentariu"
+
+#: templates/_comments.html:33
+msgid "By"
+msgstr "De"
+
+#: templates/_comments.html:48
+msgid "Add a Comment"
+msgstr "Adaugati un comentariu"
+
+#: templates/_comments.html:58
+msgid "Submit Comments"
+msgstr "Prezentati comentariile"
+
+#: templates/_permissions.html:4
+msgid "Who can view and download this data?"
+msgstr "Cine poate sa vada si sa descarce aceste date?"
+
+#: templates/_permissions.html:8
+msgid "Anyone"
+msgstr "Oricine"
+
+#: templates/_permissions.html:12 templates/_permissions.html.py:25
+msgid "Any registered user"
+msgstr "Doar utilizatorii inregistrati"
+
+#: templates/_permissions.html:29:
+msgid "Only the following users:"
+msgstr "Doar urmatorii utilizatori:"
+
+#: templates/_permissions.html:16
+msgid "Only users who can edit"
+msgstr "Doar utilizatorii cu drepturi de editare"
+
+#: templates/_permissions.html:21
+msgid "Who can edit this data?"
+msgstr "Cine poate sa editeze aceste date?"
+
+#: templates/_permissions.html:29
+msgid "Only the following users or groups:"
+msgstr "Doar urmatorii utilizatori sau grupuri:"
+
+#: templates/_permissions.html:36
+msgid "Who can manage and edit this data?"
+msgstr "Cine poate sa administreze si sa editeze aceste date?"
+
+#: templates/_permissions_form.html:11
+#: upload/templates/upload/layer_upload.html:62
+msgid "Cancel"
+msgstr "Anuleaza"
+
+#: templates/_permissions_form.html:12
+msgid "Apply Changes"
+msgstr "Aplicați modificările"
+
+#: templates/_permissions_form_js.html:126
+msgid "Choose one or more users..."
+msgstr "Alegeți unul sau mai mulți utilizatori ..."
+
+#: templates/_viewby.html:3
+msgid "View by"
+msgstr "Aranjeaza ca"
+
+#: templates/_viewby.html:4
+msgid "Grid"
+msgstr "Grila"
+
+#: templates/_viewby.html:5
+msgid "List"
+msgstr "Lista"
+
+#: templates/about.html:4 templates/about.html.py:8
+msgid "About GeoNode"
+msgstr "Despre GeoNode"
+
+#: templates/about.html:9
+msgid "About GeoNode."
+msgstr "Despre GeoNode."
+
+#: templates/developer.html:4 templates/developer.html.py:8
+msgid "Information for Developers"
+msgstr "Informatii pentru dezvoltatori"
+
+#: templates/developer.html:9
+msgid "Useful information for developers interested in GeoNode."
+msgstr "Informații utile pentru dezvoltatorii interesați în GeoNode."
+
+#: templates/developer.html:51
+msgid "GeoNode's Web Services"
+msgstr "Servicii Web ale Geonode"
+
+#: templates/developer.html:52
+msgid "GeoNode's Web Services are available from the following URLs:"
+msgstr "Serviciile Web ale Geonode sunt valabile la urmatoarele adrese URL:"
+
+#: templates/developer.html:55
+msgid "Dynamic tiles via WMS:"
+msgstr "Placi  dinamice via WMS"
+
+#: templates/developer.html:59
+msgid "Vector data via WFS:"
+msgstr "Date vector via WFS:"
+
+#: templates/developer.html:63
+msgid "Metadata search via CSW:"
+msgstr "Cautati metadate via CSW:"
+
+#: templates/developer.html:67
+msgid "Cached tiles via WMTS:"
+msgstr "Placi depozitate (cached tiles) via WMTS:"
+
+#: templates/help.html:4
+msgid "User Guide"
+msgstr "Ghid Utilizator"
+
+#: templates/help.html:8
+msgid "GeoNode Help"
+msgstr "Ajutor GeoNode"
+
+#: templates/help.html:9
+msgid ""
+"This page provides helpful information about how to use the GeoNode. You can "
+"use the sidebar links to navigate to what you want to know."
+msgstr ""
+"Această pagină oferă informații utile cu privire la modul de utilizare a "
+"GeoNode. Puteți să utilizați legaturile din bara laterală pentru a naviga la "
+"ceea ce vreti să stiti."
+
+#: templates/help.html:12
+msgid ""
+"\n"
+"  <p>The GeoNode provides access to data sets and a map editing application "
+"allows users to browse existing maps and contribute their own.</p>\n"
+"\n"
+"  <h4 id=\"browsing-data\">Browsing Layers</h4>\n"
+"  <p>The <a href=\"/data\">Layers</a> tab allows you to browse data uploaded "
+"to this GeoNode.</p>\n"
+"  <p>All data can be downloaded in a variety of formats, for use in other "
+"applications.</p>\n"
+"\n"
+"  <h4 id=\"developer-access\">Developer Access</h4>\n"
+"  <p>The <a href=\"/developer\"> Developer</a> page is the place for "
+"developers to get started building applications against the GeoNode. It "
+"includes instructions on using the web services, links to the source code of "
+"the GeoNode, and information about the open source projects used to create "
+"it.</p>\n"
+"\n"
+"  <h4 id=\"browsing-maps\">Browsing Maps</h4>\n"
+"  <p>The GeoNode allows users to create and share maps with one another.</"
+"p>\n"
+"  <p>The <a href=\"maps\">Maps</a> tab is a gateway to map exploration on "
+"GeoNode.  From here you can <strong>search for a map</strong> or "
+"<strong>create a map</strong>, which will open the <a href=\"maps/new\">Map "
+"Composer</a>.</p>\n"
+"  <h5>Google Earth Mode</h5>\n"
+"  <p>Any map viewed in the interactive map editor can be seen in 3D mode "
+"with the Google Earth plugin. To switch to 3D mode select the Google Earth "
+"globe logo, the rightmost button on top toolbar. If you do not have the "
+"Google Earth plugin installed you will be prompted to install it.</p>\n"
+"\n"
+"  <h4 id=\"creating-a-map\">Creating a Map</h4>\n"
+"  <p>To create a new map go to the <a href=\"maps\">Contributed Maps</a> tab "
+"and click the <a href=\"maps/new\">create your own map</a> link.</p>\n"
+"  <p>This will take you to the <a href=\"maps/new\">Map Composer</a> with a "
+"base layer loaded.</p>\n"
+"  <p>To add data layers from the GeoNode click on the green plus button "
+"located below the layers tab on the left hand side of the screen. This will "
+"open a dialog listing all the layers available on the GeoNode.</p>\n"
+"  <p>To add layers to your map select them and hit the <strong>Add Layers</"
+"strong> button. When finished you may hit <strong>Done</strong> to close the "
+"dialog and go back to the map.</p>\n"
+"\n"
+"  <h5>Reordering and Removing Layers</h5>\n"
+"  <p>Change the display order of the layers listed in the data tab by simply "
+"dragging and dropping their names. The order in the map will be updated to "
+"reflect that. To turn a layer's visibility off simply uncheck it, and to "
+"remove it entirely select it and hit the red minus button.</p>\n"
+"\n"
+"  <h5>Saving your map</h5>\n"
+"  <p>Once a suitable set of layers and zoom level has been found it's time "
+"to save it so others can see it.  Click the Save button--the left most icon "
+"on the top toolbar, an image of a map with a disk--on the top menu and fill "
+"out the title and abstract of the map.</p>\n"
+"\n"
+"  <h4 id=\"exporting-a-map\">Exporting a Map</h4>\n"
+"  <p>Any map from the GeoNode can be embedded for use in another site or "
+"blog. To export a map:</p>\n"
+"  <ol>\n"
+"    <li>Select the from the list of maps on the community or map page and "
+"then hit the 'export map' button.</li> \n"
+"    <li>Choose your desired height and width for the widget in the wizard.</"
+"li> \n"
+"    <li>Copy the HTML snippet provided in the wizard to any HTML page or "
+"iFrame-supporting blog post.</li>\n"
+"  </ol>\n"
+"  <p>This will put an interactive widget showing you map in your web page or "
+"blog post.</p>\n"
+"  <p>Note that the <a href=\"maps/new\">Map Composer</a> also has a button "
+"to export the map. Just be sure to save the map before exporting if there "
+"are changes that you want others to see. It exports the last saved version, "
+"not the last viewed version.</p>\n"
+"\n"
+"  <h4 id=\"remixing-a-map\">Remixing a Map</h4>\n"
+"  <p>Any map available can serve as a starting point for a new map.</p>\n"
+"  <ol>\n"
+"    <li>Open the map in the Map Composer.</li>\n"
+"    <li>Add and remove layers as you like.</li>\n"
+"    <li>Pan and zoom to highlight the area of interest.</li>\n"
+"    <li><strong>IMPORTANT:</strong> Update the title, abstract, contact info "
+"and tags to reflect the new map.</li>\n"
+"    <li>Save the map.</li>\n"
+"  </ol>\n"
+"  <p>You will be able to see your new map when you search for it from the <a "
+"href=\"maps\">Maps</a> tab.</p> \n"
+"  "
+msgstr ""
+"\n"
+"  <p>GeoNode ofera acces la harti si seturi de date si oofera o aplicatie ce "
+"permite utilizatorilor sa vizualizaze hartile existente precum si creeze "
+"propriile harti cu ajutorul seturilor de date incarcate in baza de date sau "
+"existente deja pe servere exterioare.</p>\n"
+"\n"
+"  <h4 date id=\"browsing-data\">Rasfoire date</h4>\n"
+"  <p>Fila <a href=\"data\">Date</a> vă permite să răsfoiți datele încărcate "
+"in aceasta aplicatie.</p>\n"
+"  <p>Toate datele pot fi descărcate într-o varietate de formate, pentru a fi "
+"utilizate în alte aplicații.</p>\n"
+"\n"
+"  <h4 id=\"developer-access\">Acces dezvoltator</h4>\n"
+"  <p>Pagina <a href=\"developer\">Dezvoltator</a> este locul ideal pentru "
+"dezvoltatori pentru a începe construirea de aplicații GeoNode. Acesta "
+"include instrucțiuni privind folosirea serviciilor web, link-uri la codul "
+"sursă al GeoNode, și informații cu privire la proiectele open source "
+"utilizate pentru a-l crea.</p>\n"
+"\n"
+"  <h4 id=\"browsing-maps\">Navigare Hărți</h4>\n"
+"  <p>GeoNode permite utilizatorilor să creeze și să distribuie harti altor "
+"utilizatori.</p>\n"
+"  <p>Fila <a href=\"maps\">Harti</a> este o cale de acces la explorarea "
+"hartilor pe GeoNode. De aici puteți <strong>căuta</strong> o hartă sau "
+"puteti <strong> crea</strong> una, harta care se va deschide in fila <a href="
+"\"maps/new\">Creere harta</a>.</p>\n"
+"  <h5>Mod Google Earth</h5>\n"
+"  <p>Orice hartă vizualizata în editorul de hărți interactive poate fi "
+"observata în modul 3D cu pluginul Google Earth. Pentru a comuta în modul 3D, "
+"selectați Logo-ul glob Google Earth, butonul din dreapta pe bara de "
+"instrumente de sus. Dacă nu aveți pluginul Google Earth instalat vi se va "
+"solicita să-l instalați.</p>\n"
+"\n"
+"  <h4 id=\"creating-a-map\">Creerea unei Harti</h4>\n"
+"  <p>Pentru a crea o nouă hartă mergeti la fila <a href=\"maps\">Harti</a> "
+"și faceți clic pe legatura <a href=\"maps/new\">Harta noua</a>.</p>\n"
+"  <p>Aceasta vă va duce la <a href=\"maps/new\">Creare harta</a> cu un strat "
+"de bază gata încărcat.</p>\n"
+"  <p>Pentru a adăuga straturi de date de la GeoNode click pe butonul verde "
+"cu semnul plus situat sub fila Date pe partea stângă a ecranului. Aceasta va "
+"deschide o listă de dialog toate straturile disponibile pe GeoNode.</p>\n"
+"  <p>Pentru a adăuga straturi pentru harta dvs. selectati butonul "
+"<strong>adăuga straturi</strong>. Când ați terminat selectati butonul "
+"<strong>Gata(done)</strong> pentru a închide caseta de dialog și a reveni la "
+"hartă.</p>\n"
+"\n"
+"  <h5>Reordonarea și Scoaterea straturilor</h5>\n"
+"  <p>Puteti modifica ordinea de afișare a straturilor enumerate în tab-ul de "
+"date prin simpla glisare și fixare a numele lor. Ordinea pe harta va fi "
+"actualizata pentru a reflecta acest lucru. Pentru a dezactiva vizibilitatea "
+"unui strat pur și simplu debifați-l. Pentru a-l scoate in intregime bifati "
+"caseta din dreptul lui si selectați butonul roșu cu semnul minus.</p>\n"
+"\n"
+"  <h5>Salvarea hartii</h5>\n"
+"  <p>Odată ce un set adecvat de straturi și nivelul de zoom a fost gasit e "
+"timpul de a se salva, astfel încât sa fie vizibila si celorlalti. Faceți "
+"clic pe butonul Save - simbolul din stanga de pe bara de instrumente de sus, "
+"o imagine a unei harti cu un disc - pe meniul de sus și completați titlul și "
+"rezumatul hartii</p>.\n"
+"\n"
+"  <h4 id=\"exporting-a-map\">Exportarea unei harti</h4>\n"
+"  <p>Orice hartă de poate fi încorporata in utilizarea într-un alt site sau "
+"blog. Pentru a exporta o hartă:</p>\n"
+"  <ol>\n"
+"    <li>Selectați-o din lista de hărți si apoi folositi butonul \"Export "
+"Harta\".</li> \n"
+"    <li>Alegeți înălțimea si lățimea dorită</li>. \n"
+"    <li>Copiați fragmentul HTML furnizat in orice pagină HTML sau blog ce "
+"suporta iFrame</li>\n"
+"  </ol>\n"
+"  <p>Acesta va pune un widget interactiv care sa vă prezinte harta in pagina "
+"de web sau blogul dvs. </ p>\n"
+"  <p>Rețineți că <a href=\"maps/new\"> Creare Harta </a> are, de asemenea, "
+"un buton pentru a exporta pe hartă. Doar asigurați-vă că harta este salvata "
+"înainte de a exporta în cazul în care există modificări pe care doriți ca "
+"alții să vadă. Este exportata ultima versiune salvată, nu ultima versiune "
+"vizualizat.</p>\n"
+"\n"
+"  <h4 id=\"remixing-a-map\"> Remixarea unei harti</h4>\n"
+"  <p>Orice hartă disponibilă poate servi ca un punct de plecare pentru o "
+"nouă hartă.</p>\n"
+"  <ol>\n"
+"    <li>Deschide harta în <a href=\"maps/new\"> Creare Harta </a></li>.\n"
+"    <li>Adăugati și eliminati straturile cum vă place.</li>\n"
+"    <li>Mutati și selectati nivelul de zoom pentru a evidenția zona de "
+"interes.</li>\n"
+"    <li><strong> IMPORTANT: </strong> Actualiti titlul, rezumatul, "
+"informațiile de contact și tag-urile pentru a reflecta detaliile acestei noi "
+"harti</li>.\n"
+"    <li>Salvați harta.</li>\n"
+"  </ol>\n"
+"  <p>Veți putea vedea noua harta atunci când o căutați in fila <a href=\"maps"
+"\"> Harti </a>.</p>\n"
+"  "
+
+#: templates/help.html:65
+msgid "Sections"
+msgstr "Sectiuni"
+
+#: templates/help.html:66
+msgid "Browsing Layers"
+msgstr "Rasfoind Straturi"
+
+#: templates/help.html:67
+msgid "Developer Access"
+msgstr "Acces dezvoltator"
+
+#: templates/help.html:68
+msgid "Browsing Maps"
+msgstr "Rasfoind Harti"
+
+#: templates/help.html:69
+msgid "Creating a Map"
+msgstr "Se creaza o harta"
+
+#: templates/help.html:70
+msgid "Exporting a Map"
+msgstr "Se exporta o harta"
+
+#: templates/help.html:71
+msgid "Remixing a Map"
+msgstr "Se remixeaza o harta"
+
+#: templates/index.html:9
+msgid "Welcome!"
+msgstr "Bine ati venit!"
+
+#: templates/index.html:17
+msgid "Welcome"
+msgstr "Bine ati venit"
+
+#: templates/index.html:21
+msgid ""
+"\n"
+"            GeoNode is an open source platform for sharing geospatial data "
+"and maps.  If you have any questions about the software or service, join our "
+"<a href=\"https://groups.google.com/d/forum/geonode-users\">mailing list</"
+"a>.\n"
+"          "
+msgstr ""
+"\n"
+"            Geonode este o platforma open-source pentru schimbul de harti si "
+"date geospatiale. Daca aveti orice intrebari cu privire la program "
+"(software) alaturati-va <a href=\"https://groups.google.com/d/forum/geonode-"
+"users\">listei noastre de date</a>.\n"
+"          "
+
+#: templates/index.html:25
+msgid "Need help"
+msgstr "Aveti nevoie de ajutor"
+
+#: templates/index.html:25
+msgid "Getting Started?"
+msgstr "Cu notiunile de baza?"
+
+#: templates/index.html:42
+msgid "Latest Layers"
+msgstr "Ultimele straturi"
+
+#: templates/index.html:52
+msgid "Contribute"
+msgstr "Contibuiti"
+
+#: templates/index.html:54
+msgid ""
+"\n"
+"              GeoNode enables you to upload, manage, and browse data layers. "
+"Search for data that is valuable to you, or upload your own data. \n"
+"            "
+msgstr ""
+"\n"
+"              GeoNode va permite sa incarcati, gestionati, si rasfoiti "
+"straturi de date. Căutati date care sunt valoroase pentru dvs, sau incarcați "
+"propriile date. \n"
+"            "
+
+#: templates/index.html:58
+msgid ""
+"\n"
+"              GeoNode enables you to compose and share maps. Create a map "
+"with our cartography tool, or explore maps shared by others. \n"
+"            "
+msgstr ""
+"\n"
+"             Geonode va permite sa compuneti si distribuiti harti si date "
+"geospatiale. Creati-va propria harta cu instrumentele cartografice existente "
+"sau explorati harti distribuite de altii. \n"
+"            "
+
+#: templates/index.html:67
+msgid "Latest Maps"
+msgstr "Ultimele harti"
+
+#: templates/account/login.html:7 templates/account/login.html.py:24
+msgid "Log in"
+msgstr "Coenctati-va"
+
+#: templates/account/login.html:12
+msgid "Log in to an existing account"
+msgstr "Conectati-va la un cont existent"
+
+#: templates/account/login.html:22
+msgid "Forgot your username?"
+msgstr "Ați uitat numele de utilizator?"
+
+#: templates/account/login.html:23
+msgid "Forgot your password?"
+msgstr "Ați uitat parola?"
+
+#: templates/account/logout.html:15
+msgid "Are you sure you want to log out?"
+msgstr "Sunteți sigur că doriți să ieșiți?"
+
+#: templates/account/password_reset.html:8
+#: templates/account/password_reset.html:14
+msgid "Password reset"
+msgstr "Schimbati-va parola"
+
+#: templates/account/password_reset.html:15
+msgid ""
+"Forgotten your password? Enter your email address below, and we'll send you "
+"an email allowing you to reset it."
+msgstr ""
+"Ați uitat parola? Introduceți adresa dvs. de e-mail de mai jos, iar noi vom "
+"trimite un e-mail care vă permite să o resetați."
+
+#: templates/account/password_reset.html:20
+msgid "Reset my password"
+msgstr "Schimbati parola"
+
+#: templates/account/password_reset.html:25
+#, python-format
+msgid ""
+"If you have any trouble resetting your password, contact us at <a href="
+"\"mailto:%(THEME_ACCOUNT_CONTACT_EMAIL)s\">%(THEME_ACCOUNT_CONTACT_EMAIL)s</"
+"a>."
+msgstr ""
+"Dacă aveți probleme la resetarea parolei, contactați-ne la <a href=\"mailto:"
+"%(THEME_ACCOUNT_CONTACT_EMAIL)s\">%(THEME_ACCOUNT_CONTACT_EMAIL)s</a>."
+
+#: templates/activity/actor.html:34
+msgid "No actions yet"
+msgstr "Nici o actiune inca"
+
+#: templates/announcements/announcement_detail.html:3
+#, python-format
+msgid "Announcements : %(object)s"
+msgstr "Anunturi : %(object)s"
+
+#: templates/announcements/announcement_list.html:3
+#: templates/announcements/announcement_list.html:6
+msgid "Announcements"
+msgstr "Anunturi"
+
+#: templates/announcements/announcement_list.html:13
+msgid "Hide announcement"
+msgstr "Ascundeti anunturile"
+
+#: templates/announcements/announcement_list.html:18
+msgid "There are no announcements for you."
+msgstr "Nu există anunțuri pentru dvs."
+
+#: templates/avatar/change.html:6 templates/avatar/confirm_delete.html:5
+msgid "Back to edit your profile information"
+msgstr "Înapoi la informatii despre profilul dvs."
+
+#: templates/avatar/change.html:7
+msgid "Your current avatar: "
+msgstr "Avatarul dvs curent:"
+
+#: templates/avatar/change.html:10
+msgid "You haven't uploaded an avatar yet. Please upload one now."
+msgstr "Nu ati încărcat un avatar pana inca. Vă rugăm să încărcați unul acum."
+
+#: templates/avatar/change.html:16
+msgid "Choose new Default"
+msgstr "Alegeti un nou implicit"
+
+#: templates/avatar/change.html:21
+msgid "Upload New Image"
+msgstr "Încărcați o imagine nouă"
+
+#: templates/avatar/confirm_delete.html:6
+msgid "Please select the avatars that you would like to delete."
+msgstr "Vă rugăm să selectați avatarele pe care doriți să le ștergeți."
+
+#: templates/avatar/confirm_delete.html:9
+#, python-format
+msgid ""
+"You have no avatars to delete. Please <a href=\"%(avatar_change_url)s"
+"\">upload one</a> now."
+msgstr ""
+"Nu aveti nici un avatar pe care sa il puteti sterge. Va rugam <a href="
+"\"%(avatar_change_url)s\">incarcati unul</a> acum."
+
+#: templates/avatar/confirm_delete.html:15
+msgid "Delete These"
+msgstr "Stergeti acestea"
+
+#: templates/notification/base.html:15 templates/notification/notices.html:7
+#: templates/notification/notices.html:11
+msgid "Notices"
+msgstr "Informari"
+
+#: templates/notification/base.html:16
+msgid "Notice settings"
+msgstr "Setari informari"
+
+#: templates/notification/base.html:17
+msgid "Observed objects"
+msgstr "Obiecte observate"
+
+#: templates/notification/notice_settings.html:5
+#: templates/notification/notice_settings.html:10
+msgid "Notification Settings"
+msgstr "Setari Notificari"
+
+#: templates/notification/notice_settings.html:15
+msgid "Primary email"
+msgstr "Email primar"
+
+#: templates/notification/notice_settings.html:17
+#, python-format
+msgid "change under <a href=\"%(email_url)s\">Account</a>"
+msgstr "schimba sub <a href=\"%(email_url)s\">Cont</a>"
+
+#: templates/notification/notice_settings.html:21
+msgid "Note"
+msgstr "Nota"
+
+#: templates/notification/notice_settings.html:22
+#, python-format
+msgid ""
+"You do not have a verified email address to which notices can be sent. You "
+"can add one by going to <a href=\"%(email_url)s\">Account</a>."
+msgstr ""
+"Nu aveti o adresa de email verificata la care sa poate fi trimise "
+"notificarile. Puteti adauga una mergand la <a href=\"%(email_url)s\">Cont</"
+"a>."
+
+#: templates/notification/notice_settings.html:30
+msgid "Notification Type"
+msgstr "Tipul notificarii"
+
+#: templates/notification/notice_settings.html:48
+msgid "Change"
+msgstr "Schimbati"
+
+#: templates/notification/notices.html:16
+msgid "Mark all unseen notices seen"
+msgstr "Marcati toate anunturile necitite"
+
+#: templates/notification/notices.html:22
+msgid "MONTH_DAY_FORMAT"
+msgstr "LUNA_ZI_FORMAT"
+
+#: templates/notification/notices.html:33
+msgid "View Notice"
+msgstr "Vedeti notificare"
+
+#: templates/notification/notices.html:41
+msgid "No notices."
+msgstr "Fara notificari."
+
+#: templates/notification/single.html:6 templates/notification/single.html:9
+msgid "Notice"
+msgstr "Notificare"
+
+#: templates/pagination/pagination.html:8
+msgid "Previous"
+msgstr "Anterior"
+
+#: templates/pagination/pagination.html:10
+msgid "previous"
+msgstr "anterior"
+
+#: templates/pagination/pagination.html:17
+#: upload/templates/upload/layer_upload_crs.html:29
+#: upload/templates/upload/layer_upload_time.html:149
+msgid "Next"
+msgstr "Urmator"
+
+#: templates/pagination/pagination.html:19
+msgid "next"
+msgstr "urmator"
+
+#: templates/relationships/_manage_connections.html:4
+msgid "Manage Connections"
+msgstr "Administrati conexiuni"
+
+#: templates/relationships/_manage_connections.html:6
+msgid "Following"
+msgstr "Urmand"
+
+#: templates/relationships/_manage_connections.html:7
+msgid "Blocking"
+msgstr ""
+
+#: templates/relationships/confirm.html:4
+#: templates/relationships/confirm.html:7
+msgid "No longer"
+msgstr "Nu mai"
+
+#: templates/relationships/confirm.html:12
+msgid "Confirm"
+msgstr "Confirmati"
+
+#: templates/relationships/relationship_list.html:16
+msgid "Unfollow"
+msgstr "Opriti-va din urmarire"
+
+#: templates/relationships/relationship_list.html:20
+msgid "Unblock"
+msgstr "Deblocati"
+
+#: templates/relationships/success.html:5
+msgid "Success"
+msgstr "Succes"
+
+#: templates/relationships/success.html:6
+msgid "You are "
+msgstr ""
+
+#: templates/relationships/success.html:6
+msgid "now"
+msgstr "acum"
+
+#: templates/relationships/success.html:6
+msgid "no longer"
+msgstr ""
+
+#: templates/relationships/success.html:7
+#, python-format
+msgid "%(to_user_username)s's profile"
+msgstr "catre profilul %(to_user_username)s"
+
+#: templates/user_messages/inbox.html:6
+msgid "Message Inbox"
+msgstr "Casuta de primire mesaje"
+
+#: templates/user_messages/inbox.html:12
+msgid "With"
+msgstr "Cu"
+
+#: templates/user_messages/inbox.html:13
+msgid "Subject"
+msgstr "Subiect"
+
+#: templates/user_messages/inbox.html:14
+msgid "Last Sender"
+msgstr "Ultimul expeditor"
+
+#: templates/user_messages/inbox.html:15
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: templates/user_messages/inbox.html:16
+msgid "Delete?"
+msgstr "Stergeti?"
+
+#: templates/user_messages/inbox.html:33
+#: templates/user_messages/thread_detail.html:14
+msgid "you"
+msgstr "tu(tine)"
+
+#: templates/user_messages/inbox.html:44
+#: upload/templates/upload/layer_upload.html:53
+#: upload/templates/upload/layer_upload.html:61
+msgid "Delete"
+msgstr "Stergeti"
+
+#: templates/user_messages/inbox.html:55
+#: templates/user_messages/message_create.html:5
+#: templates/user_messages/message_create.html:8
+msgid "Create Message"
+msgstr "Creati mesaj"
+
+#: templates/user_messages/message_create.html:14
+msgid "Send message"
+msgstr "Trimiteti mesaj"
+
+#: templates/user_messages/message_create.html:19
+#: templates/user_messages/thread_detail.html:32
+msgid "Back to Inbox"
+msgstr "Inapoi la casuta de intrare"
+
+#: templates/user_messages/thread_detail.html:25
+msgid "Send Reply"
+msgstr "Trimiteti raspuns"
+
+#: upload/templates/upload/layer_upload.html:5
+#: upload/templates/upload/layer_upload_crs.html:7
+#: upload/templates/upload/layer_upload_csv.html:7
+msgid "Upload Layer"
+msgstr "Incarcati strat"
+
+#: upload/templates/upload/layer_upload.html:52
+msgid "Resume"
+msgstr "Reluati"
+
+#: upload/templates/upload/layer_upload.html:59
+msgid "Are you sure you want to delete this upload?"
+msgstr "Sunteti siguri ca vreti sa stergeti aceasta incarcare"
+
+#: upload/templates/upload/layer_upload.html:64
+msgid "Delete, and don't ask me again."
+msgstr "Stergeti si nu ma mai intrebati asta din nou."
+
+#: upload/templates/upload/layer_upload.html:77
+msgid "Drop files here"
+msgstr "Lasati fisiere aici"
+
+#: upload/templates/upload/layer_upload.html:80
+msgid " or select them one by one:"
+msgstr "sau selectati-le unul cate unul"
+
+#: upload/templates/upload/layer_upload.html:94
+msgid "Select the charset or leave default"
+msgstr ""
+"Selectati tipul de codificare a caracterelor (charset) sau lasati-l pe cel "
+"implicit"
+
+#: upload/templates/upload/layer_upload.html:106
+msgid "Clear"
+msgstr "Curatati"
+
+#: upload/templates/upload/layer_upload.html:107
+msgid "Upload files"
+msgstr "Incarcati fisiere"
+
+#: upload/templates/upload/layer_upload_crs.html:10
+msgid "Provide CRS for "
+msgstr "Furnizati CRS pentru"
+
+#: upload/templates/upload/layer_upload_time.html:7
+msgid "Upload Layer Step 2"
+msgstr "Incarcati strat pasul 2"
+
+#: upload/templates/upload/layer_upload_time.html:60
+msgid "Editing details for "
+msgstr "Se editeaza detaliile pentru"
+
+#: upload/templates/upload/layer_upload_time.html:70
+msgid "This data does not have a time attribute"
+msgstr "Aceste date nu au stabilit un atribut temporal"
+
+#: upload/templates/upload/layer_upload_time.html:75
+#: upload/templates/upload/layer_upload_time.html:103
+msgid "Existing Time Attribute"
+msgstr "Exista un atribut temporal"
+
+#: upload/templates/upload/layer_upload_time.html:81
+#: upload/templates/upload/layer_upload_time.html:109
+msgid "Convert Text Attribute"
+msgstr "Convertiti atrubutul text"
+
+#: upload/templates/upload/layer_upload_time.html:82
+#: upload/templates/upload/layer_upload_time.html:110
+msgid "Date Format"
+msgstr "Formatul de data"
+
+#: upload/templates/upload/layer_upload_time.html:95
+#: upload/templates/upload/layer_upload_time.html:123
+msgid "Convert Number (As Year)"
+msgstr "Convertiti numarul (Ca An)"
