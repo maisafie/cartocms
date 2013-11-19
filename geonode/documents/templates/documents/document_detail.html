@@ -70,23 +70,24 @@
           <li class="active"><a href="#info" data-toggle="tab"><i class="icon-info-sign"></i>{% trans "Info" %}</a></li>
           <li><a href="#comments" data-toggle="tab"><i class="icon-comment"></i> {% trans "Comments" %}</a></li>
           <li><a href="#rate" data-toggle="tab"><i class="icon-star"></i>{% trans "Ratings" %}</a></li>
-          <li><a href="#share" data-toggle="tab"><i class="icon-share"></i>{% trans "Share" %}</a></li>
+          <!-- <li><a href="#share" data-toggle="tab"><i class="icon-share"></i>{% trans "Share" %}</a></li> -->
           <!-- li><a href="#flag" data-toggle="tab"><i class="icon-flag"></i>{% trans "Flag" %}</a></li -->
         </ul>
       </div>
       <div class="tab-content">
         {% include "base/resourcebase_info_panel.html" with resourcebase=document %}
-
+        
+        <!-- TODO: Move this to a reusable template snippet --> 
+        <!-- TODO: Add more sharing options -->
+        <!--
         <article id="share" class="tab-pane">
-          <!-- TODO: Move this to a reusable template snippet -->
           <header>
               <h3>{% trans "Share This Document" %}</h3>
           </header>
           <g:plusone size="small" href="http://{{ request.get_host }}{{ request.get_full_path }}"></g:plusone>
           <div class="fb-like" data-href="http://{{ request.get_host }}{{ request.get_full_path }}" data-send="false" data-width="50" data-layout="button_count" data-show-faces="false"></div>
-          <!-- TODO: Add more sharing options -->
         </article>
-
+        -->
         <!--article id="flag" class="tab-pane">
           <p>Flag this Layer</p>
         </article-->
